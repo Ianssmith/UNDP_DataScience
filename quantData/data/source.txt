@@ -1,0 +1,4 @@
+gini.csv: WIID
+free.csv: freedomhouse
+WDI: worldbank
+countries.csv: https://www.worlddata.info/downloads/

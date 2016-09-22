@@ -1,0 +1,940 @@
+"2005 PPP conversion factor
+"Access to electricity
+"Access to non-solid fuel
+"Account at a financial institution
+"Adjusted net enrollment rate
+"Adjusted net enrolment rate
+"Adjusted net savings
+"Adolescent fertility rate (births per 1
+"Adolescents out of school
+"Adult literacy rate
+"Age dependency ratio
+"Agricultural machinery
+"Agriculture
+"Air transport
+"All education staff compensation
+"Annual freshwater withdrawals
+"Annualized average growth rate in per capita real survey mean consumption or income
+"Armed forces personnel
+"Automated teller machines (ATMs) (per 100
+"Average grace period on new external debt commitments
+"Average grant element on new external debt commitments
+"Average interest on new external debt commitments
+"Average maturity on new external debt commitments
+"Average working hours of children
+"Binding coverage
+"Bird species
+"Birth rate
+"Borrowers from commercial banks (per 1
+"Bound rate
+"Burden of customs procedure
+"CO2 emissions from electricity and heat production
+"CO2 emissions from other sectors
+"CPIA transparency
+"Cause of death
+"Central government debt
+"Charges for the use of intellectual property
+"Child employment in agriculture
+"Child employment in manufacturing
+"Child employment in services
+"Children in employment
+"Children out of school
+"Claims on central government
+"Commercial bank branches (per 100
+"Commercial banks and other lending (PPG + PNG) (NFL
+"Commitments
+"Communications
+"Community health workers (per 1
+"Completeness of birth registration
+"Computer
+"Condom use
+"Contraceptive prevalence
+"Contributing family workers
+"Currency composition of PPG debt
+"Current account balance (BoP
+"Current education expenditure
+"Death rate
+"Debt service (PPG and IMF only
+"Debt service on external debt
+"Depositors with commercial banks (per 1
+"Disbursements on external debt
+"Droughts
+"EBRD
+"Effective transition rate from primary to lower secondary general education
+"Electricity production from oil
+"Electricity production from renewable sources
+"Employers
+"Employment in agriculture
+"Employment in industry
+"Employment in services
+"Employment to population ratio
+"Energy imports
+"Energy use (kg of oil equivalent) per $1
+"Enrolment in primary education
+"Enrolment in secondary education
+"Enrolment in secondary general
+"Enrolment in secondary vocational
+"Exports of goods
+"Exports of goods and services (BoP
+"External debt stocks
+"External debt stocks (% of exports of goods
+"Female legislators
+"Fertility rate
+"Final consumption expenditure
+"Fish species
+"Food
+"Foreign direct investment
+"GDP
+"GDP per capita
+"GNI
+"GNI per capita
+"Goods exports (BoP
+"Goods imports (BoP
+"Government expenditure on education
+"Government expenditure per student
+"Grants
+"Gross enrollment ratio
+"Gross enrolment ratio
+"Gross fixed capital formation
+"Gross intake ratio to Grade 1 of primary education
+"Health expenditure
+"Health expenditure per capita
+"Hospital beds (per 1
+"Household final consumption expenditure
+"IBRD loans and IDA credits (DOD
+"ICT service exports (% of service exports
+"ICT service exports (BoP
+"IFC
+"IMF charges (INT
+"IMF purchases (DIS
+"IMF repurchases (AMT
+"IMF repurchases and charges (TDS
+"Immunization
+"Imports of goods
+"Imports of goods and services (BoP
+"Improved sanitation facilities
+"Improved water source
+"Incidence of tuberculosis (per 100
+"Industry
+"Inflation
+"Informal employment
+"Insurance and financial services (% of service exports
+"Insurance and financial services (% of service imports
+"Intentional homicides (per 100
+"Interest arrears
+"Interest payments on external debt
+"Interest payments on external debt (% of exports of goods
+"Interest rate spread (lending rate minus deposit rate
+"Interest rescheduled
+"Internally displaced persons (number
+"International migrant stock
+"International tourism
+"Labor force
+"Labor force participation rate
+"Labor force participation rate for ages 15-24
+"Labor force with primary education
+"Labor force with secondary education
+"Labor force with tertiary education
+"Lead time to export
+"Lead time to import
+"Life expectancy at birth
+"Listed domestic companies
+"Literacy rate
+"Long-term unemployment
+"Losses due to theft
+"Lower secondary completion rate
+"Mammal species
+"Manufacturing
+"Maternal mortality ratio (modeled estimate
+"Maternal mortality ratio (national estimate
+"Merchandise exports by the reporting economy
+"Merchandise imports by the reporting economy
+"Mobile account
+"Mortality caused by road traffic injury (per 100
+"Mortality rate
+"Multilateral debt service (TDS
+"Net ODA received (% of imports of goods
+"Net bilateral aid flows from DAC donors
+"Net capital account (BoP
+"Net enrolment rate
+"Net errors and omissions (BoP
+"Net financial account (BoP
+"Net financial flows
+"Net flows on external debt
+"Net incurrence of liabilities
+"Net intake rate in grade 1
+"Net intake rate to Grade 1 of primary education
+"Net official flows from UN agencies
+"Net primary income (BoP
+"Net secondary income (BoP
+"Net trade in goods (BoP
+"Net trade in goods and services (BoP
+"Net transfers on external debt
+"New business density (new registrations per 1
+"Number of surgical procedures (per 100
+"Nurses and midwives (per 1
+"Official exchange rate (LCU per US$
+"Other greenhouse gas emissions
+"Out-of-school children of primary school age
+"Over-age students
+"PM2.5 air pollution
+"PNG
+"PPG
+"PPP conversion factor
+"Part time employment
+"Patent applications
+"People practicing open defecation
+"Percentage of female teachers in primary education who are trained
+"Percentage of female teachers in secondary education who are trained
+"Percentage of male teachers in primary education who are trained
+"Percentage of male teachers in secondary education who are trained
+"Percentage of repeaters in primary education
+"Percentage of teachers in primary education who are trained
+"Percentage of teachers in secondary education who are trained
+"Persistence to grade 5
+"Personal remittances
+"Personal transfers
+"Physicians (per 1
+"Plant species (higher)
+"Point-of-sale terminals (per 100
+"Population
+"Population living in slums
+"Portfolio Investment
+"Portfolio equity
+"Portfolio investment
+"Preprimary education
+"Presence of peace keepers (number of troops
+"Present value of external debt (% of exports of goods
+"Prevalence of HIV
+"Prevalence of overweight
+"Prevalence of severe wasting
+"Prevalence of stunting
+"Prevalence of underweight
+"Prevalence of wasting
+"Primary completion rate
+"Primary education
+"Primary income on FDI
+"Primary income payments (BoP
+"Primary income receipts (BoP
+"Principal arrears
+"Principal repayments on external debt
+"Principal rescheduled
+"Progression to secondary school
+"Public and publicly guaranteed debt service (% of exports of goods
+"Pupil-teacher ratio
+"Quality of port infrastructure
+"Railways
+"Renewable internal freshwater resources
+"Reserves and related items (BoP
+"Residual
+"Revenue
+"Risk premium on lending (lending rate minus treasury bill rate
+"School enrollment
+"Secondary education
+"Secondary income
+"Secondary income receipts (BoP
+"Self-employed
+"Service exports (BoP
+"Service imports (BoP
+"Services
+"Share of tariff lines with international peaks
+"Share of tariff lines with specific rates
+"Share of youth not in education
+"Short-term debt (% of exports of goods
+"Smoking prevalence
+"Specialist surgical workforce (per 100
+"Stocks traded
+"Survey mean consumption or income per capita
+"Survival rate to Grade 5 of primary education
+"Survival rate to the last grade of primary education
+"Survival to age 65
+"Tariff rate
+"Taxes on income
+"Teachers in primary education
+"Teachers in secondary education
+"Technical cooperation grants (BoP
+"Tertiary education
+"Total debt service (% of exports of goods
+"Total reserves (includes gold
+"Trademark applications
+"Trained teachers in lower secondary education
+"Trained teachers in preprimary education
+"Trained teachers in upper secondary education
+"Transport services (% of service exports
+"Transport services (% of service imports
+"Travel services (% of service exports
+"Travel services (% of service imports
+"Tuberculosis case detection rate (%
+"Undisbursed external debt
+"Unemployment
+"Unemployment with primary education
+"Unemployment with secondary education
+"Unemployment with tertiary education
+"Use of IMF credit (DOD
+"Vulnerable employment
+"Wage and salaried workers
+"Wage and salary workers
+"Water productivity
+"Youth literacy rate
+ARI treatment (% of children under 5 taken to a health provider)
+Access to electricity (% of population)
+Access to non-solid fuel (% of population)
+Account at a financial institution (% age 15+) [ts]
+Adequacy of social insurance programs (% of total welfare of beneficiary households)
+Adequacy of social protection and labor programs (% of total welfare of beneficiary households)
+Adequacy of social safety net programs (% of total welfare of beneficiary households)
+Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households)
+Adjusted net national income (annual % growth)
+Adjusted net national income (constant 2010 US$)
+Adjusted net national income (current US$)
+Adjusted net national income per capita (annual % growth)
+Adjusted net national income per capita (constant 2010 US$)
+Adjusted net national income per capita (current US$)
+Adjusted savings: carbon dioxide damage (% of GNI)
+Adjusted savings: carbon dioxide damage (current US$)
+Adjusted savings: consumption of fixed capital (% of GNI)
+Adjusted savings: consumption of fixed capital (current US$)
+Adjusted savings: education expenditure (% of GNI)
+Adjusted savings: education expenditure (current US$)
+Adjusted savings: energy depletion (% of GNI)
+Adjusted savings: energy depletion (current US$)
+Adjusted savings: gross savings (% of GNI)
+Adjusted savings: mineral depletion (% of GNI)
+Adjusted savings: mineral depletion (current US$)
+Adjusted savings: natural resources depletion (% of GNI)
+Adjusted savings: net forest depletion (% of GNI)
+Adjusted savings: net forest depletion (current US$)
+Adjusted savings: net national savings (% of GNI)
+Adjusted savings: net national savings (current US$)
+Adjusted savings: particulate emission damage (% of GNI)
+Adjusted savings: particulate emission damage (current US$)
+Adolescents out of school (% of lower secondary school age)
+Age dependency ratio (% of working-age population)
+Agricultural irrigated land (% of total agricultural land)
+Agricultural land (% of land area)
+Agricultural land (sq. km)
+Agricultural methane emissions (% of total)
+Agricultural methane emissions (thousand metric tons of CO2 equivalent)
+Agricultural nitrous oxide emissions (% of total)
+Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent)
+Agricultural raw materials exports (% of merchandise exports)
+Agricultural raw materials imports (% of merchandise imports)
+Agriculture value added per worker (constant 2010 US$)
+Alternative and nuclear energy (% of total energy use)
+Antiretroviral therapy coverage (% of people living with HIV)
+Aquaculture production (metric tons)
+Arable land (% of land area)
+Arable land (hectares per person)
+Arable land (hectares)
+Armed forces personnel (% of total labor force)
+Arms exports (SIPRI trend indicator values)
+Arms imports (SIPRI trend indicator values)
+Average grace period on new external debt commitments (years)
+Average grant element on new external debt commitments (%)
+Average interest on new external debt commitments (%)
+Average maturity on new external debt commitments (years)
+Average precipitation in depth (mm per year)
+Average time to clear exports through customs (days)
+Average transaction cost of remittances (%)
+BHS
+Bank capital to assets ratio (%)
+Bank liquid reserves to bank assets ratio (%)
+Bank nonperforming loans to total gross loans (%)
+Battle-related deaths (number of people)
+Benefits incidence in poorest quintile (%) - All Labor Market
+Benefits incidence in poorest quintile (%) - All Social Assistance
+Benefits incidence in poorest quintile (%) - All Social Insurance
+Benefits incidence in poorest quintile (%) -All Social Protection and Labor
+Births attended by skilled health staff (% of total)
+Bribery incidence (% of firms experiencing at least one bribe payment request)
+Broad money (% of GDP)
+Broad money (current LCU)
+Broad money growth (annual %)
+Broad money to total reserves ratio
+Business extent of disclosure index (0=less disclosure to 10=more disclosure)
+CO2 emissions (kg per 2010 US$ of GDP)
+CO2 emissions (kg per 2011 PPP $ of GDP)
+CO2 emissions (kg per PPP $ of GDP)
+CO2 emissions (kt)
+CO2 emissions (metric tons per capita)
+CO2 emissions from gaseous fuel consumption (% of total)
+CO2 emissions from gaseous fuel consumption (kt)
+CO2 emissions from liquid fuel consumption (% of total)
+CO2 emissions from liquid fuel consumption (kt)
+CO2 emissions from manufacturing industries and construction (% of total fuel combustion)
+CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion)
+CO2 emissions from solid fuel consumption (% of total)
+CO2 emissions from solid fuel consumption (kt)
+CO2 emissions from transport (% of total fuel combustion)
+CO2 intensity (kg per kg of oil equivalent energy use)
+COG
+CPIA building human resources rating (1=low to 6=high)
+CPIA business regulatory environment rating (1=low to 6=high)
+CPIA debt policy rating (1=low to 6=high)
+CPIA economic management cluster average (1=low to 6=high)
+CPIA efficiency of revenue mobilization rating (1=low to 6=high)
+CPIA equity of public resource use rating (1=low to 6=high)
+CPIA financial sector rating (1=low to 6=high)
+CPIA fiscal policy rating (1=low to 6=high)
+CPIA gender equality rating (1=low to 6=high)
+CPIA macroeconomic management rating (1=low to 6=high)
+CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
+CPIA policy and institutions for environmental sustainability rating (1=low to 6=high)
+CPIA property rights and rule-based governance rating (1=low to 6=high)
+CPIA public sector management and institutions cluster average (1=low to 6=high)
+CPIA quality of budgetary and financial management rating (1=low to 6=high)
+CPIA quality of public administration rating (1=low to 6=high)
+CPIA social protection rating (1=low to 6=high)
+CPIA structural policies cluster average (1=low to 6=high)
+CPIA trade rating (1=low to 6=high)
+Capture fisheries production (metric tons)
+Cash surplus/deficit (% of GDP)
+Cash surplus/deficit (current LCU)
+Cereal production (metric tons)
+Cereal yield (kg per hectare)
+Changes in inventories (constant LCU)
+Changes in inventories (current LCU)
+Changes in inventories (current US$)
+Chemicals (% of value added in manufacturing)
+Child employment in agriculture (% of economically active children ages 7-14)
+Child employment in manufacturing (% of economically active children ages 7-14)
+Child employment in services (% of economically active children ages 7-14)
+Children (0-14) living with HIV
+Children out of school (% of primary school age)
+Children with fever receiving antimalarial drugs (% of children under age 5 with fever)
+Claims on central government (annual growth as % of broad money)
+Claims on other sectors of the domestic economy (% of GDP)
+Claims on other sectors of the domestic economy (annual growth as % of broad money)
+Claims on private sector (annual growth as % of broad money)
+Coal rents (% of GDP)
+Combustible renewables and waste (% of total energy)
+Commercial service exports (current US$)
+Commercial service imports (current US$)
+Compensation of employees (% of expense)
+Compensation of employees (current LCU)
+Completeness of birth registration (%)
+Completeness of death registration with cause-of-death information (%)
+Completeness of infant death reporting (% of reported infant deaths to estimated infant deaths)
+Completeness of total death reporting (% of reported total deaths to estimated total deaths)
+Concessional debt (% of total external debt)
+Consumer price index (2010 = 100)
+Consumption of iodized salt (% of households)
+Container port traffic (TEU: 20 foot equivalent units)
+Cost of business start-up procedures (% of GNI per capita)
+Cost to export (US$ per container)
+Cost to import (US$ per container)
+Coverage (%) - All Labor Market
+Coverage (%) - All Social Assistance
+Coverage (%) - All Social Insurance
+Coverage (%) -All Social Protection and Labor
+Crop production index (2004-2006 = 100)
+Current account balance (% of GDP)
+Customs and other import duties (% of tax revenue)
+Customs and other import duties (current LCU)
+DEC alternative conversion factor (LCU per US$)
+Debt buyback (current US$)
+Debt forgiveness grants (current US$)
+Debt forgiveness or reduction (current US$)
+Debt stock reduction (current US$)
+Debt stock rescheduled (current US$)
+Delay in obtaining an electrical connection (days)
+Demand for family planning satisfied by modern methods (% of married women with demand for family planning)
+Deposit interest rate (%)
+Depth of credit information index (0=low to 8=high)
+Depth of the food deficit (kilocalories per person per day)
+Diabetes prevalence (% of population ages 20 to 79)
+Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)
+Diarrhea treatment (% of children under 5 who received ORS packet)
+Disaster risk reduction progress score (1-5 scale; 5=best)
+Discrepancy in expenditure estimate of GDP (constant LCU)
+Discrepancy in expenditure estimate of GDP (current LCU)
+Distance to frontier score (0=lowest performance to 100=frontier)
+Documents to export (number)
+Documents to import (number)
+Domestic credit provided by financial sector (% of GDP)
+Domestic credit to private sector (% of GDP)
+Domestic credit to private sector by banks (% of GDP)
+Duration of compulsory education (years)
+EGY
+Ease of doing business index (1=most business-friendly regulations)
+Electric power consumption (kWh per capita)
+Electric power transmission and distribution losses (% of output)
+Electricity production from coal sources (% of total)
+Electricity production from hydroelectric sources (% of total)
+Electricity production from natural gas sources (% of total)
+Electricity production from nuclear sources (% of total)
+Electricity production from oil sources (% of total)
+Emigration rate of tertiary educated (% of total tertiary educated population)
+Employment in agriculture (% of total employment)
+Employment in industry (% of total employment)
+Employment in services (% of total employment)
+Energy intensity level of primary energy (MJ/$2011 PPP GDP)
+Energy related methane emissions (% of total)
+Energy use (kg of oil equivalent per capita)
+Exclusive breastfeeding (% of children under 6 months)
+Expenditure on education as % of total government expenditure (%)
+Expenditure on primary as % of government expenditure on education (%)
+Expenditure on secondary as % of government expenditure on education (%)
+Expenditure on tertiary as % of government expenditure on education (%)
+Expense (% of GDP)
+Expense (current LCU)
+Export value index (2000 = 100)
+Export volume index (2000 = 100)
+Exports as a capacity to import (constant LCU)
+Exports of goods and services (% of GDP)
+Exports of goods and services (annual % growth)
+Exports of goods and services (constant 2010 US$)
+Exports of goods and services (constant LCU)
+Exports of goods and services (current LCU)
+Exports of goods and services (current US$)
+External balance on goods and services (% of GDP)
+External balance on goods and services (constant LCU)
+External balance on goods and services (current LCU)
+External balance on goods and services (current US$)
+External debt stocks (% of GNI)
+External resources for health (% of total expenditure on health)
+FSM
+Female genital mutilation prevalence (%)
+Female headed households (% of households with a female head)
+Fertilizer consumption (% of fertilizer production)
+Fertilizer consumption (kilograms per hectare of arable land)
+Final consumption expenditure (constant 2010 US$)
+Final consumption expenditure (constant LCU)
+Final consumption expenditure (current LCU)
+Final consumption expenditure (current US$)
+Firms competing against unregistered firms (% of firms)
+Firms expected to give gifts in meetings with tax officials (% of firms)
+Firms formally registered when operations started (% of firms)
+Firms offering formal training (% of firms)
+Firms that do not report all sales for tax purposes (% of firms)
+Firms using banks to finance investment (% of firms)
+Firms using banks to finance working capital (% of firms)
+Firms with female participation in ownership (% of firms)
+Firms with female top manager (% of firms)
+Fixed broadband subscriptions
+Fixed broadband subscriptions (per 100 people)
+Fixed telephone subscriptions
+Fixed telephone subscriptions (per 100 people)
+Food exports (% of merchandise exports)
+Food imports (% of merchandise imports)
+Food production index (2004-2006 = 100)
+Forest area (% of land area)
+Forest area (sq. km)
+Forest rents (% of GDP)
+Fossil fuel energy consumption (% of total)
+Fuel exports (% of merchandise exports)
+Fuel imports (% of merchandise imports)
+GDP (constant LCU)
+GDP (current LCU)
+GDP (current US$)
+GDP at market prices (constant 2010 US$)
+GDP deflator (base year varies by country)
+GDP growth (annual %)
+GDP per capita (constant 2010 US$)
+GDP per capita (constant LCU)
+GDP per capita (current LCU)
+GDP per capita (current US$)
+GDP per capita growth (annual %)
+GDP per person employed (constant 2011 PPP $)
+GDP per unit of energy use (PPP $ per kg of oil equivalent)
+GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent)
+GEF benefits index for biodiversity (0 = no biodiversity potential to 100 = maximum)
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent)
+GINI index (World Bank estimate)
+GMB
+GNI (constant 2010 US$)
+GNI (constant LCU)
+GNI (current LCU)
+GNI (current US$)
+GNI growth (annual %)
+GNI per capita (constant 2010 US$)
+GNI per capita (constant LCU)
+GNI per capita (current LCU)
+GNI per capita growth (annual %)
+General government final consumption expenditure (% of GDP)
+General government final consumption expenditure (annual % growth)
+General government final consumption expenditure (constant 2010 US$)
+General government final consumption expenditure (constant LCU)
+General government final consumption expenditure (current LCU)
+General government final consumption expenditure (current US$)
+Goods and services expense (% of expense)
+Goods and services expense (current LCU)
+Government expenditure per tertiary student as % of GDP per capita (%)
+Grants and other revenue (% of revenue)
+Grants and other revenue (current LCU)
+Gross capital formation (% of GDP)
+Gross capital formation (annual % growth)
+Gross capital formation (constant 2010 US$)
+Gross capital formation (constant LCU)
+Gross capital formation (current LCU)
+Gross capital formation (current US$)
+Gross domestic income (constant LCU)
+Gross domestic savings (% of GDP)
+Gross domestic savings (current LCU)
+Gross domestic savings (current US$)
+Gross fixed capital formation (% of GDP)
+Gross fixed capital formation (annual % growth)
+Gross fixed capital formation (constant 2010 US$)
+Gross fixed capital formation (constant LCU)
+Gross fixed capital formation (current LCU)
+Gross fixed capital formation (current US$)
+Gross national expenditure (% of GDP)
+Gross national expenditure (constant 2010 US$)
+Gross national expenditure (constant LCU)
+Gross national expenditure (current LCU)
+Gross national expenditure (current US$)
+Gross national expenditure deflator (base year varies by country)
+Gross savings (% of GDP)
+Gross savings (% of GNI)
+Gross savings (current LCU)
+Gross savings (current US$)
+Gross value added at factor cost (constant 2010 US$)
+Gross value added at factor cost (constant LCU)
+Gross value added at factor cost (current LCU)
+Gross value added at factor cost (current US$)
+HFC gas emissions (thousand metric tons of CO2 equivalent)
+HKG
+Health expenditure per capita (current US$)
+High-technology exports (% of manufactured exports)
+High-technology exports (current US$)
+Household final consumption expenditure (annual % growth)
+Household final consumption expenditure (constant 2010 US$)
+Household final consumption expenditure (constant LCU)
+Household final consumption expenditure (current LCU)
+Household final consumption expenditure (current US$)
+Household final consumption expenditure per capita (constant 2010 US$)
+Household final consumption expenditure per capita growth (annual %)
+ICT goods exports (% of total goods exports)
+ICT goods imports (% total goods imports)
+IDA grants (current US$)
+IDA resource allocation index (1=low to 6=high)
+IRN
+Import value index (2000 = 100)
+Import volume index (2000 = 100)
+Imports of goods and services (% of GDP)
+Imports of goods and services (annual % growth)
+Imports of goods and services (constant 2010 US$)
+Imports of goods and services (constant LCU)
+Imports of goods and services (current LCU)
+Imports of goods and services (current US$)
+Improved sanitation facilities (% of population with access)
+Improved water source (% of population with access)
+Income share held by fourth 20%
+Income share held by highest 10%
+Income share held by highest 20%
+Income share held by lowest 10%
+Income share held by lowest 20%
+Income share held by second 20%
+Income share held by third 20%
+Indicator Name
+Informal employment (% of total non-agricultural employment)
+Informal payments to public officials (% of firms)
+Insurance and financial services (% of commercial service exports)
+Insurance and financial services (% of commercial service imports)
+Interest forgiven (current US$)
+Interest payments (% of expense)
+Interest payments (% of revenue)
+Interest payments (current LCU)
+Interest payments on external debt (% of GNI)
+Interest rescheduled (capitalized) (current US$)
+International migrant stock (% of population)
+Internationally-recognized quality certification (% of firms)
+Internet users (per 100 people)
+Investment in energy with private participation (current US$)
+Investment in telecoms with private participation (current US$)
+Investment in transport with private participation (current US$)
+Investment in water and sanitation with private participation (current US$)
+KOR
+Labor force with primary education (% of total)
+Labor force with secondary education (% of total)
+Labor force with tertiary education (% of total)
+Labor tax and contributions (% of commercial profits)
+Land area (sq. km)
+Land area where elevation is below 5 meters (% of total land area)
+Land under cereal production (hectares)
+Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)
+Law mandates nondiscrimination based on gender in hiring (1=yes; 0=no)
+Law mandates paid or unpaid maternity leave (1=yes; 0=no)
+Law prohibits or invalidates child or early marriage (1=yes; 0=no)
+Legislation exists on domestic violence (1=yes; 0=no)
+Lending interest rate (%)
+Lifetime risk of maternal death (%)
+Lifetime risk of maternal death (1 in: rate varies by country)
+Liner shipping connectivity index (maximum value in 2004 = 100)
+Livestock production index (2004-2006 = 100)
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high)
+Logistics performance index: Competence and quality of logistics services (1=low to 5=high)
+Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)
+Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
+Logistics performance index: Overall (1=low to 5=high)
+Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high)
+Long-term unemployment (% of total unemployment)
+Low-birthweight babies (% of births)
+MAC
+MKD
+Machinery and transport equipment (% of value added in manufacturing)
+Manufactures exports (% of merchandise exports)
+Manufactures imports (% of merchandise imports)
+Marine protected areas (% of territorial waters)
+Market capitalization of listed domestic companies (% of GDP)
+Market capitalization of listed domestic companies (current US$)
+Merchandise exports (current US$)
+Merchandise exports by the reporting economy (current US$)
+Merchandise exports to economies in the Arab World (% of total merchandise exports)
+Merchandise exports to high-income economies (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)
+Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)
+Merchandise imports (current US$)
+Merchandise imports by the reporting economy (current US$)
+Merchandise imports from economies in the Arab World (% of total merchandise imports)
+Merchandise imports from high-income economies (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)
+Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)
+Merchandise trade (% of GDP)
+Methane emissions (% change from 1990)
+Methane emissions (kt of CO2 equivalent)
+Methane emissions in energy sector (thousand metric tons of CO2 equivalent)
+Methodology assessment of statistical capacity (scale 0 - 100)
+Military expenditure (% of GDP)
+Military expenditure (% of central government expenditure)
+Military expenditure (current LCU)
+Mineral rents (% of GDP)
+Mobile account (% age 15+) [w2]
+Mobile cellular subscriptions
+Mobile cellular subscriptions (per 100 people)
+Mothers are guaranteed an equivalent position after maternity leave (1=yes; 0=no)
+Multilateral debt (% of total external debt)
+Multilateral debt service (% of public and publicly guaranteed debt service)
+Natural gas rents (% of GDP)
+Net ODA received (% of GNI)
+Net ODA received (% of central government expense)
+Net ODA received (% of gross capital formation)
+Net ODA received per capita (current US$)
+Net barter terms of trade index (2000 = 100)
+Net change in interest arrears (current US$)
+Net current transfers from abroad (constant LCU)
+Net current transfers from abroad (current LCU)
+Net current transfers from abroad (current US$)
+Net domestic credit (current LCU)
+Net foreign assets (current LCU)
+Net income from abroad (constant LCU)
+Net income from abroad (current LCU)
+Net income from abroad (current US$)
+Net migration
+Net official aid received (constant 2013 US$)
+Net official aid received (current US$)
+Net official development assistance and official aid received (constant 2013 US$)
+Net official development assistance and official aid received (current US$)
+Net official development assistance received (constant 2013 US$)
+Net official development assistance received (current US$)
+Net taxes on products (constant LCU)
+Net taxes on products (current LCU)
+Net taxes on products (current US$)
+New businesses registered (number)
+Newborns protected against tetanus (%)
+Nitrous oxide emissions (% change from 1990)
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent)
+Nitrous oxide emissions in energy sector (% of total)
+Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent)
+Nondiscrimination clause mentions gender in the constitution (1=yes; 0=no)
+Nonpregnant and nonnursing women can do the same jobs as men (1=yes; 0=no)
+Number of infant deaths
+Number of maternal deaths
+Number of neonatal deaths
+Number of under-five deaths
+Number of visits or required meetings with tax officials
+Official entrance age to lower secondary education (years)
+Official entrance age to primary education (years)
+Oil rents (% of GDP)
+Ores and metals exports (% of merchandise exports)
+Ores and metals imports (% of merchandise imports)
+Other expense (% of expense)
+Other expense (current LCU)
+Other greenhouse gas emissions (% change from 1990)
+Other manufacturing (% of value added in manufacturing)
+Other taxes (% of revenue)
+Other taxes (current LCU)
+Other taxes payable by businesses (% of commercial profits)
+Out-of-pocket health expenditure (% of private expenditure on health)
+Out-of-pocket health expenditure (% of total expenditure on health)
+Overall level of statistical capacity (scale 0 - 100)
+PFC gas emissions (thousand metric tons of CO2 equivalent)
+PRK
+People practicing open defecation (% of population)
+Percentage of enrolment in primary education in private institutions (%)
+Percentage of enrolment in secondary education in private institutions (%)
+Percentage of students in secondary general education who are female (%)
+Percentage of students in secondary vocational education who are female (%)
+Periodicity and timeliness assessment of statistical capacity (scale 0 - 100)
+Permanent cropland (% of land area)
+Population ages 0-14 (% of total)
+Population ages 15-64 (% of total)
+Population ages 65 and above (% of total)
+Population density (people per sq. km of land area)
+Population growth (annual %)
+Population in largest city
+Population in the largest city (% of urban population)
+Population in urban agglomerations of more than 1 million
+Population in urban agglomerations of more than 1 million (% of total population)
+Population living in areas where elevation is below 5 meters (% of total population)
+Poverty gap at $1.90 a day (2011 PPP) (%)
+Poverty gap at $3.10 a day (2011 PPP) (%)
+Poverty gap at national poverty lines (%)
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)
+Poverty headcount ratio at $3.10 a day (2011 PPP) (% of population)
+Poverty headcount ratio at national poverty lines (% of population)
+Power outages in firms in a typical month (number)
+Pregnant women receiving prenatal care (%)
+Present value of external debt (% of GNI)
+Present value of external debt (current US$)
+Prevalence of anemia among children (% of children under 5)
+Prevalence of anemia among non-pregnant women (% of women ages 15-49)
+Prevalence of anemia among pregnant women (%)
+Prevalence of anemia among women of reproductive age (% of women ages 15-49)
+Prevalence of undernourishment (% of population)
+Price level ratio of PPP conversion factor (GDP) to market exchange rate
+Principal forgiven (current US$)
+Principal rescheduled (current US$)
+Private credit bureau coverage (% of adults)
+Procedures to build a warehouse (number)
+Procedures to register property (number)
+Profit tax (% of commercial profits)
+Proportion of seats held by women in national parliaments (%)
+Public and publicly guaranteed debt service (% of GNI)
+Public credit registry coverage (% of adults)
+Pump price for diesel fuel (US$ per liter)
+Pump price for gasoline (US$ per liter)
+Pupil-teacher ratio in pre-primary education (headcount basis)
+Pupil-teacher ratio in primary education (headcount basis)
+Pupil-teacher ratio in secondary education (headcount basis)
+Rail lines (total route-km)
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+Ratio of female to male labor force participation rate (%) (national estimate)
+Real effective exchange rate index (2010 = 100)
+Real interest rate (%)
+Refugee population by country or territory of asylum
+Refugee population by country or territory of origin
+Renewable electricity output (% of total electricity output)
+Renewable energy consumption (% of total final energy consumption)
+Renewable internal freshwater resources per capita (cubic meters)
+Research and development expenditure (% of GDP)
+Researchers in R&D (per million people)
+Risk of catastrophic expenditure for surgical care (% of people at risk)
+Risk of impoverishing expenditure for surgical care (% of people at risk)
+Rural land area (sq. km)
+Rural land area where elevation is below 5 meters (% of total land area)
+Rural land area where elevation is below 5 meters (sq. km)
+Rural population
+Rural population (% of total population)
+Rural population growth (annual %)
+Rural population living in areas where elevation is below 5 meters (% of total population)
+Rural poverty gap at national poverty lines (%)
+Rural poverty headcount ratio at national poverty lines (% of rural population)
+S&P Global Equity Indices (annual % change)
+SF6 gas emissions (thousand metric tons of CO2 equivalent)
+Scientific and technical journal articles
+Secure Internet servers
+Secure Internet servers (per 1 million people)
+Share of women in wage employment in the nonagricultural sector (% of total nonagricultural employment)
+Short-term debt (% of total external debt)
+Short-term debt (% of total reserves)
+Social contributions (% of revenue)
+Social contributions (current LCU)
+Source data assessment of statistical capacity (scale 0 - 100)
+Start-up procedures to register a business (number)
+Strength of legal rights index (0=weak to 12=strong)
+Subsidies and other transfers (% of expense)
+Subsidies and other transfers (current LCU)
+Surface area (sq. km)
+Tax payments (number)
+Tax revenue (% of GDP)
+Tax revenue (current LCU)
+Taxes on exports (% of tax revenue)
+Taxes on exports (current LCU)
+Taxes on goods and services (% of revenue)
+Taxes on goods and services (% value added of industry and services)
+Taxes on goods and services (current LCU)
+Taxes on international trade (% of revenue)
+Taxes on international trade (current LCU)
+Technicians in R&D (per million people)
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+Terms of trade adjustment (constant LCU)
+Terrestrial and marine protected areas (% of total territorial area)
+Terrestrial protected areas (% of total land area)
+Textiles and clothing (% of value added in manufacturing)
+Theoretical duration of primary education (years)
+Theoretical duration of secondary education (years)
+Time required to build a warehouse (days)
+Time required to enforce a contract (days)
+Time required to get electricity (days)
+Time required to obtain an operating license (days)
+Time required to register property (days)
+Time required to start a business (days)
+Time spent dealing with the requirements of government regulations (% of senior management time)
+Time to export (days)
+Time to import (days)
+Time to prepare and pay taxes (hours)
+Time to resolve insolvency (years)
+Total amount of debt rescheduled (current US$)
+Total change in external debt stocks (current US$)
+Total debt service (% of GNI)
+Total fisheries production (metric tons)
+Total greenhouse gas emissions (% change from 1990)
+Total greenhouse gas emissions (kt of CO2 equivalent)
+Total natural resources rents (% of GDP)
+Total reserves (% of total external debt)
+Total reserves in months of imports
+Total reserves minus gold (current US$)
+Total tax rate (% of commercial profits)
+Trade (% of GDP)
+Trade in services (% of GDP)
+Trained teachers in lower secondary education (% of total teachers)
+Trained teachers in preprimary education (% of total teachers)
+Trained teachers in upper secondary education (% of total teachers)
+Transport services (% of commercial service exports)
+Transport services (% of commercial service imports)
+Travel services (% of commercial service exports)
+Travel services (% of commercial service imports)
+Tuberculosis treatment success rate (% of new cases)
+Unemployment with primary education (% of total unemployment)
+Unemployment with secondary education (% of total unemployment)
+Unemployment with tertiary education (% of total unemployment)
+Unmet need for contraception (% of married women ages 15-49)
+Urban land area (sq. km)
+Urban land area where elevation is below 5 meters (% of total land area)
+Urban land area where elevation is below 5 meters (sq. km)
+Urban population
+Urban population (% of total)
+Urban population growth (annual %)
+Urban population living in areas where elevation is below 5 meters (% of total population)
+Urban poverty gap at national poverty lines (%)
+Urban poverty headcount ratio at national poverty lines (% of urban population)
+Use of insecticide-treated bed nets (% of under-5 population)
+VEN
+Value lost due to electrical outages (% of sales)
+Vitamin A supplementation coverage rate (% of children ages 6-59 months)
+Wanted fertility rate (births per woman)
+Wholesale price index (2010 = 100)
+Women who believe a husband is justified in beating his wife (any of five reasons) (%)
+Women who believe a husband is justified in beating his wife when she argues with him (%)
+Women who believe a husband is justified in beating his wife when she burns the food (%)
+Women who believe a husband is justified in beating his wife when she goes out without telling him (%)
+Women who believe a husband is justified in beating his wife when she neglects the children (%)
+Women who believe a husband is justified in beating his wife when she refuses sex with him (%)
+Women who were first married by age 18 (% of women ages 20-24)
+Women's share of population ages 15+ living with HIV (%)
+YEM
+ZAR
