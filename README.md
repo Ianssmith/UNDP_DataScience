@@ -1,5 +1,4 @@
 # major-studio-1
- 
 ## Quantitative Data
 
 ## Data Review
