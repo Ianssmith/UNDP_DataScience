@@ -1,0 +1,830 @@
+show  
+verty and Inequality Interactions in Africa 
+An Overview of Key Issues
+ Haroon Bhorat Karmen Naidoo Kavisha Pillay
+ 30 June 2016
+United Nations Development Programme
+Regional Bureau for Africa  RBA 
+INEQUALITY PROJECT
+                                                  UNDP RBA WPS 1 2016
+ Working Paper Series
+UNDP s Project on  Inequality in Sub Saharan Africa 
+This is one of the background papers on the UNDP Regional Bureau for Africa s  RBA  comprehensive inequality study in Sub Saharan Africa  The study intends to contribute to the growing debates on inequality in the continent  Essentially  it aims to understand what factors explain trends in inequality and their positive and negative outcomes and to draw relevant policy lessons that could help the design and formulation of public policies and programs to address inequality in the continent 
+Objectives of the study
+The specific objectives of the research project are to 
+ i  Provide a comparative analysis of inequality and examine several forms of elasticity of poverty and inequality across African countries and sub regions 
+ ii  Identify key factors responsible for the inequality and poverty changes observed in Sub Saharan Africa during the last twenty years  so as to orient future policies towards inclusive growth  An important objective is to identify best practice policies and programs in countries that have experienced favourable progress on inequality trends over the past decade 
+ iii  Examine empirically whether the countries which experienced a transition to democracy and the election of more accountable governments experienced improvements in growth and or inequality  and assess whether trade offs  if any  between these two are unavoidable or can lead to win win situations 
+ iv  Analyze the relative importance of various economic  social and political factors in the observed changes in inequality and poverty in different clusters of economies  and
+ v  Identify existing bottlenecks still impeding rapid progress such as dependence on commodity exports  weak industrial policy  reliance on volatile foreign savings  as well as other impediments that could hinder progress in sustaining an inclusive pro poor growth in the future 
+Project Management
+The Project is coordinated by Ayodele Odusola  Chief Economist and Head of Strategy and Analysis Team  RBA  under the strategic guidance of Abdoulaye Mar Dieye  RBA Director and Assistant Administrator 
+RBA Inequality Project
+Growth  Poverty and Inequality Interactions In Africa 
+An Overview of Key Issues
+ TABLE OF CONTENTS
+I  Introduction 1
+II  Growth  Poverty and Inequality Interactions  A Brief Literature Review 1
+III  Growth  poverty and inequality  The African context 3 The nature  size and pattern of inequality in Africa 3 Africa s growth poverty inequality nexus 9
+IV  Drivers of inequity in economic growth patterns 11 V  Drivers of inequality in Africa  Microeconomic and institutional considerations 15
+Natural resources and inequality
+Governance and institutions
+Demographic changes and the labour market 23 Education and human capital development 27 Gender dimensions of inequality 33
+VI  Conclusions 35
+Policy issues 35
+VII  References 37
+ 16 22
+Authors  Haroon Bhorat  Karmen Naidoo and Kavisha Pillay  All comments can be directed to haroon bhorat uct ac za
+Views expressed in this paper do not necessarily represent those of UNDP  but those of the authors 
+UNDP RBA Working Paper Series Vol 1   1
+I  Introduction
+Africa s poverty challenge is well known and widely researched  Approximately a third of the world s poor live in Africa  More recently  evidence shows that inequality may indeed be a more significant challenge in Africa than in other regions of the developing world  High levels of poverty and inequality persist in Africa in spite of it being one of the fastest growing regions in the last decade  In particular  six of the world s ten fastest growing economies during 2001 2010 were in sub Saharan Africa  SSA   The Economist and IMF  2011   Specifically  the fastest growing economy in the world in this decade was Angola  followed by Nigeria  Ethiopia  Chad  Mozambique  Rwanda and Equatorial Guinea 
+For Africa  the period from the 1970s through to the late 1990s can in general be considered lost decades since independence  This period has been characterized by  a combination of serious governance failures  low and sub optimal investment in health  education and other social services  significant macroeconomic imbalances  poor infrastructure  and structural trade deficits  The post 2000 African economic boom  in contrast  has been built on a composite of factors  including technology  mobile in particular   demographic growth  urbanization and the rise of new dynamic African cities  improved macro economic policy  enhanced regional cooperation and integration  better targeted social policy  and significant increases in the quality of governance and institutions  In turn  these factors have enabled the growth momentum on the continent to be maintained  Africa s socio economic variables have not  however  matched this impressive economic performance  poverty and higher levels of inequality remain a feature of many African economies  Within this context  this paper aims to look more closely at the evolution of inequality on the continent over time  as well as some of its key drivers 
+There are three stylized facts about the growth poverty inequality linkages that have emerged out of studies on developing economies  summarized well by Ferriera and Ravallion  2008   First  growth rates among developing countries are virtually uncorrelated with changes in inequality  Second  in the absence of the above relationship  there must be a strong relationship between growth and changes in poverty  Empirical evidence has strongly shown that faster growing economics reduce poverty more rapidly  Finally  high initial inequality reduces the poverty reducing power of growth  and more so if inequality rises through the growth process  This paper will build on these stylized facts to shed light on the nature and size of  the changes in  and the drivers of inequality in the African context 
+The structure of the paper consists of the following  Section I  which provides the introduction  Section II  which provides a brief review of the international literature on growth  poverty and inequality interactions  Section III  which explores the growth poverty inequality interactions in the African context and focuses on describing the shape and size of inequality in Africa  Section IV  which investigates in more detail the potential drivers of inequality in Africa  and Section V concludes 
+II  Growth  Poverty and Inequality Interactions  A Brief Literature Review
+There is very little debate  if any  among economists around the notion that a high level of economic growth is essential for poverty reduction  Indeed  increased growth rates  effectively measured by rising per capita mean incomes  would appear to make this link clear  rising growth rates will yield lower poverty levels in the society  Cross country results indicate that the absolute value of the elasticity of poverty with respect to economic growth  as measured by the survey mean income or consumption  ranges from 1 to 5  with an average of 3  Ravallion and Chen  1997   Hence  there is strong evidence that economic growth is a necessary condition for poverty reduction  The range of values  however  suggests that some economies are more able to achieve pro poor growth than others  indicating that economic growth is a necessary but not sufficient condition for poverty reduction 
+1
+Chapter II  Growth  Poverty and inequality interactions  A Brief Literature Review
+One overriding factor in understanding the growth poverty linkage is how it is intermediated through distribution of income  Once inequality is allowed to change in the modelling of the welfare consequences of economic growth  the impact on poverty is unclear  Kanbur  2004  Kanbur and Squire  1999   Indeed  arguably the most important welfare consequence from growth  in terms of its impact on poverty  is how this growth process impacts on the distribution of income  The consequent literature  driven by the work for example of Kakwani  1993   Datt and Ravallion  1992   Ravallion  2001  1997   Ravallion and Datt  2002   Bourguignon  2002   and Kanbur  2005   have attempted  in different ways  to provide a more accurate and careful representation of the interaction between economic growth  poverty and inequality  The evidence thus far  while far from establishing a consensus view  arrives at the following key deductions on the basis of empirical  largely cross country based evidence  First  growth that is accompanied by a rise in income inequality will dissipate the impact of the former on poverty reduction  Indeed  this is more easily shown through simple theoretical cases  but it is true that the impact of economic growth on poverty depends on the extent to which inequality has increased  As Ravallion  2001  has indicated  spells of growth during the 1980s in a sample of economies including Bangladesh  China  Colombia  India  Philippines and Viet Nam  witnessed the dilution of the impact on household poverty through rising income inequality  The often apparently minor changes in the relevant inequality measure   usually the Gini coefficient   belie the dramatic impact that these shifts can have on poverty reduction outcomes from growth 
+Second  evidence seems to suggest that the initial level of income inequality within an economy is important in predicting the magnitude of the impact of growth on poverty  Ravallion  1997  Clarke  1999  Ravallion  2001  Adams  2004   Specifically  higher levels of initial income inequality are likely to be associated with a lower impact on poverty from growth  all things being equal  This is to be expected  given that an initial maldistribution of physical  human and financial resources should make it much harder for the poor to participate in  and therefore gain from  the process of economic growth  Ravallion  2004   for example  illustrates through cross  country evidence how  at very high levels of initial income inequality within his sample  growth poverty elasticities are not significantly different from zero  Indeed  this relationship is particularly important in our context here  given  as elucidated in greater detail below  the high Gini coefficients observed for sub Saharan Africa  SSA  relative to many other regions of the world 
+A final thread of the evidence linking poverty  economic growth and inequality revolves around the sensitivity of measures of income inequality to changes in economic growth  Hence  much of the international evidence here suggests that measures of income inequality do not alter significantly with economic growth  Li  Squire and Zou  1998   The growth inequality relationship therefore tends to be relatively inelastic  since large changes in growth rates are required for significant distributional shifts in a society  Kanbur and Squire  1999  Kakwani  1993   Notably  there is little if any consistent evidence of large and significant declines in inequality accompanying episodes of economic growth  In many cases  then  societies on a path of successive years of growth should expect more inelastic growth inequality outcomes than possibly that of growth and poverty 
+The Africa specific literature on the growth poverty inequality linkages is sparse  Fosu  2009  finds that  consistent with previous work  initial inequality differences can lead to substantial differences in the growth  poverty elasticity  not only between SSA and other regions  but also between countries within SSA  Recent work by Fosu  2014   which decomposes poverty changes during the early 1990s and the late 2000s for 23 African countries  shows that economic growth explains the majority of the changes in poverty for the group of countries experiencing poverty reduction  However  where poverty increased  inequality was more important in explaining the change  Importantly  even among those countries that experience declining poverty  for a few of them  declining inequality was the dominant factor  This heterogeneity points to the importance of country specific studies  Each country s growth poverty inequality relationship is no doubt influenced by issues relating to natural resource dependence  conflict and fragility  and governance issues  However  currently  there is little systematic evidence of the evolution of growth poverty or growth inequality
+2
+elasticities within African economies that is influenced disproportionately by any one or combination of these factors 
+III  Growth  poverty and inequality  The African context
+In the last two decades  the high poverty levels in Africa and associated development issues have taken centre  stage in the African development literature  Much has been documented about changes in poverty levels  the growth poverty elasticities and the macroeconomic drivers of poverty  Over this time  the issue of inequality has arguably been relatively neglected  possibly in part due to the lack of credible time series data on changes in the income distribution in African economies 1
+The nature  size and pattern of inequality in Africa
+More recently  it has increasingly been acknowledged that some of the most unequal economies in the world are in Africa  Using the Gini coefficient as the measure of within country income inequality  Table 1 shows that the average Gini coefficient in Africa is 0 43  which is 1 1 times the coefficient for the rest of the developing world  at 0 39  Furthermore  the upper bound of the continent s range of Gini coefficients exceeds that of the developing world  indicating that extreme inequality is also a distinct feature on the African continent  Using another measure of income inequality  shows that  on average  the top 20 per cent of earners in Africa have an income that is over 10 times that of the bottom 20 per cent  For other developing economies  this average is below 9 
+Table 1  Inequality in Africa vs  other developing economies
+  Africa
+  Other developing countries
+  Difference
+  Gini
+ Average
+0 43
+ 8 52 
+0 39
+ 8 54 
+ 0 04  
+  Median 0 41 0 38
+ Min
+0 31  Egypt 
+0 25  Ukraine 
+   Max
+0 65 0 52     South Africa   Haiti 
+  Ratio of incomes 
+Top 20    bottom 20 
+   10 18
+      8 91
+          Average Gini coefficient
+ Low income
+0 42
+ 7 66 
+0 39
+ 11 84 
+ 0 03
+  Lower middle income 0 44  8 31  0 40  8 55  0 05 
+ Upper middle income
+ 0 46
+  11 2 
+ 0 40
+  8 29 
+  0 06 
+  Source  WIDER Inequality Database  2014  World Development Indicators  2014 
+Notes  1  Other developing economies have been chosen according to the World Bank classification of a developing economy 
+which includes a range of countries from Latin America  Asia and Eastern Europe 
+2  The latest available data were used for each country  after 2000  
+3  Standard deviations are shown in parenthesis 
+4  The small sample size of other developing countries in the low income group makes it difficult to determine statistical
+significance 
+1 The lack of strong statistical systems in most African countries prevents the adequate tracking of poverty and inequality trends at the national and sub national levels  which also hampers the ability to clearly identify the determining elements behind these trends 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 3
+ 
+Chapter III  Growth  poverty and inequality  The African context
+    The highest gini coefficient in the  Other developing countries  category  at 0 61  is found in the
+small island nation of the Federated States of Micronesia  and has been excluded here for comparability purposes 
+   Significant at the 5  level    Significant at the 10  level 
+ Therefore  while the extent of measured inequality may differ according to different measurement techniques  the overall message is that inequality in Africa is high in both absolute and relative terms  The notion of a cluster of high inequality African economies is also an important component of this comparative exercise 
+The distribution of Gini coefficients as illustrated in Figure 1 shows that the African distribution lies to the right of that of the rest of the developing world  which confirms the earlier observation that Africa s average levels of inequality are higher than other developing countries  In fact  60 per cent  30 out of 50  of the African countries in this sample fall above the median Gini coefficient of all developing economies  In addition  Kolmogorov Smirnov tests for equality of distributions are rejected at the 5 per cent level  suggesting that the distribution of inequality in Africa is distinct from that for the rest of the developing world 
+Figure 1  The distribution of Gini Coefficients  Africa and other developing economies
+ Distribution of Gini Coefficients
+                   20 30 40 Gini 50 60 70
+Africa Other developing economies
+   Source  WIDER Inequality Database  2014  World Development Indicators  2014  own graph 
+Note  1  The latest available data were used for each country  after 2000  
+2  Kolmogorov Smirnov tests for equality of distributions are rejected at the 5  level 
+An outstanding feature of this graph is the prevalence of extreme inequality in Africa  which is not observed in other developing economies  There are 15 African countries in the fourth quartile of the entire distribution of Gini coefficients for all developing economies  Furthermore  there are seven outlier African economies that have a Gini coefficient of above 0 55  Angola  Central African Republic  Botswana  Zambia  Namibia  Comoros and South Africa  Some of these are Southern African middle income countries  South Africa  Namibia  Botswana and Zambia   which all exhibit considerably high levels of inequality  with Gini coefficients within the 0 57 0 64 range  Notably  however  some of the fast growing  populous countries on the continent such as Nigeria  United Republic of Tanzania and the Democratic Republic of the Congo  have significantly lower Gini coefficients of between 0 34 and 0 44 
+4
+0  01  02  03  04  05
+Using the population data from the World Development Indicators  WDI 2014   the population weighted Gini for Africa was calculated as 0 41  around 10 per cent of the African population live in the seven most unequal economies  A further 50 per cent of the African population live in countries with a Gini coefficient in the range of 0 402 to 0 505 
+Given the poor quality of historical economic data  it is difficult to assess the changes in inequality in Africa over time  However  the United Nations University World Institute for Development Economics Research  UNU  WIDER  world income inequality dataset  WIID  has compiled the best available Gini coefficients over time  which are used in Figure 2  The estimates show that for Africa  on average  there has been a slight reduction in the Gini coefficient from 0 48 during the early 1990s to the current level of 0 43   an 11 per cent decline 
+Figure 2  Movements in the Gini coefficient over time
+                         1990 1994 1995 1999 2000 2004 2005 2009 2010 2013
+Source  WIID  2014  World Development Indicators  2014  own graph 
+Note  1  For the Africa average  the sample sizes per period are as follows  27 countries  1990 1994   24 countries  1995 1999   38 countries  2000 2004   28 countries  2005 2009  and 25 countries  2010 2013  
+2  The high inequality countries are  Angola  Botswana  Comoros  Central African Republic  Namibia  South Africa and Zambia  The sample sizes per period are as follows  five  1990 1994   two  1995 1999   seven  2000 2004   three  2005  2009  and three  2010 2013  
+When excluding the seven outlier African economies  it can be observed that the average Gini coefficient for the rest of the continent declines from 0 45 in the early 1990s to a current level of 0 40  a 9 per cent decline   Notably  this latter average when compared with the data in Table 1 is almost equal to that of the rest of the developing world  In essence  the data here would suggest that it is the seven extremely unequal African countries  then  that are driving the results that place African inequality levels above that of other developing economies  The most recent Gini coefficients for these seven countries have an average of 0 51  Figure 3  in turn  emphasizes the fact that after 1999  the overall decline in inequality in Africa has been driven disproportionately by the decline in inequality of the  low inequality  sub sample of African economies  The cohort of  high inequality  African economies have jointly served to restrict the aggregate decline in African inequality 
+ Africa_all Africa_high_inequality Africa_other
+   UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 5
+Gini
+40 45 50 55 60 65
+Chapter III  Growth  poverty and inequality  The African context Figure 3  Rates of change in inequality in Africa
+                                              1994 1999 1999 2004 2004 2009 2009 2013 1994 2013
+   High inequality countries Africa  all  Lower inequality countries
+ Source  WIID  2014  World Development Indicators  2014  Own graph 
+Note  1  For the Africa average  the sample sizes per period are as follows  27 countries  1990 1994   24 countries  1995 1999   38 countries  2000 2004   28 countries  2005 2009  and 25 countries  2010 2013  
+2  The high inequality countries are  Angola  Botswana  Comoros  Central African Republic  Namibia  South Africa and Zambia  The sample sizes per period are as follows  five  1990 1994   two  1995 1999   seven  2000 2004   three  2005  2009  and three  2010 2013  
+These averages  however  hide much of the variation observed across different countries  Figure 3 plots the Gini coefficient for a few African countries where there are sufficient data points  and it is clear that countries such as Egypt  Malawi and Madagascar have witnessed a narrowing of the income distribution over time  whereas Côte d Ivoire  South Africa and Uganda have experienced a rise in inequality since the 1990s  According to the available data  South Africa remains the most unequal African country  and indeed  one of the most unequal in the world 
+6
+  change in average Gini coefficient  10  5 0 5
+ Figure 4  Trends in the Gini coefficient  selected African economies
+Source  WIID  2014  World Development Indicators  2014  own graph 
+Figure 4 shows another way to reflect on these idiosyncratic changes to inequality in Africa over time  This graph illustrates the changes in income inequality over a 20  year period  1990 2010  for 34 African countries  For 18 countries in this sample  income inequality  as measured by the ratio of income share of the top 20 per cent to the bottom 20 per cent  has been rising 
+Figure 5  Change in inequality in Africa  top 20  bottom 20    earlier observation  1990s  vs  latest observation  2000s 
+Source  World Development Indicators  2014 
+Note  Ratio is calculated as top 20  bottom 20  over time 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 7
+Chapter III  Growth  poverty and inequality  The African context
+In addition to Angola  Ethiopia and Sierra Leone  many of the continent s fastest growing economies have also witnessed rising inequality over time  A review of the literature confirms this heterogeneous experience of African countries regarding the changes in the Gini coefficient over time  Bigsten and Shimeles  2004  analyse trends in inequality in a many African countries  primarily over the 1990s  and find very mixed results  In nine of the 17 countries in their dataset  the Gini coefficient decreased  in six countries  it increased  and in two  it stayed almost the same  Their analysis is problematic given the variation in time periods for different countries   for example  for Kenya  changes over only two years were examined  whereas for Ethiopia  over 14 year time period  Nonetheless  individual country studies have revealed varying changes in inequality over a number of African countries such as United Republic of Tanzania  Demombynes and Hoogeveen  2004   Nigeria  Canagarajah and Thomas  2001   Uganda  Appleton  1999  Ssewanyana et al  2004  and Zambia  McCulloch et al  2000  
+Reliable time series data for individual countries are required to fully understand whether there may be some kind of Kuznets turning point in the evolution of inequality over time in Africa  While the threshold level at which inequality is expected to decline is not known  the cross country evidence in Table 1 shows no reversal in income inequality as African countries progress to upper middle income status  Supporting this view  earlier work in 1990s analysing growth spells in Africa find no such Kuznets effect  see Fields  2000 for a review of this literature   and in these studies  half of the growth spells were associated with increased inequality and in the other half  inequality decreased  To conclude  it is neither the rate of economic growth nor the stage of development  but the sources of growth that really matter in our assessment of the relationship between economic growth and inequality 
+Figure 6  Change in GDP and Gini coefficient  early 1990s vs most recent   Africa
+                                                                                                                                                                                                                                   Source  WIID  2014  World Development Indicators  2014 
+Note  Authors have calculated the changes in the Gini coefficient and the GDP per capita growth rates over time 
+8
+Figure 6 shows that there is a weak relationship between the rate of economic growth and the change in the Gini coefficient for a large sample of African economies  However  the relationship is visibly stronger for the subset of economies that have an initially high Gini coefficient 2
+as represented by the green fitted line  In addition  the correlation between initial inequality and current inequality for the above sample of African countries is statistically significant  at the 1 per cent level  with a magnitude of 0 56  These results only show that initial inequality can potentially explain a large proportion of the current levels of inequality  emphasizing the path dependent nature of the phenomenon  It would also follow  then  that not only do the sources of growth matter for inequality  but so do initial conditions 
+The synthesis of the authors  own observations and the findings in the literature point to a set of early conclusions  First  it is difficult to derive a clear and consistent storyline around the nature and pattern of inequality across Africa given the substantial variation in both levels and changes over time  Second  it can be suggested although the data provisionally point to the fact that inequality has on average declined in Africa  it is driven mostly by the economies not classified as highly unequal  Third  Africa has a higher mean and median level of inequality than the rest of the developing region  Fourth  an important feature of inequality on the continent is the presence of the  African outliers   seven economies exhibiting extremely high levels of inequality  When excluding these African outliers  it is evident that Africa s level of inequality approximates those of other developing economies  Finally  estimating the relationship between growth and inequality suggests that for countries with initially high inequality  there is a stronger relationship between economic growth and inequality 
+Africa s growth poverty inequality nexus
+Despite the remarkable macroeconomic performance of Africa over the last decade  the continent has fallen behind in its goal of poverty reduction  While extreme poverty has fallen since 1990  almost 50 per cent of Africa s population  413 million people  continue to live below the extreme poverty line  Figure 7 shows that poverty is now falling in Africa  but not as rapidly as in South and East Asia  This has resulted in Africa s share of global poverty increasing from 22 per cent in 1990 to 33 per cent in 2010  Africa Progress Panel  2014  
+Figure 7  Poverty headcount ratio in different regions of the world
+Source  World Bank  2014  PovcalNet  own graph 
+2A Gini coefficient of above 0 5 in the 1990s 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 9
+  
+Chapter III  Growth  poverty and inequality  The African context
+Across most of Africa  except North Africa  the proportion of the population living below the extreme poverty line is similar on average  at 39 46 per cent of population  Figure 7   This is significantly higher than the poverty rates in the other developing regions of South Asia and Latin America and the Caribbean  LAC   For example  the proportion of people living in extreme poverty in Central Africa is 2 5 times that of South Asia and 4 6 times that of LAC  Clearly  there are marked variations in poverty levels across the different countries  Four of the most populous countries in Africa  Nigeria  Ethiopia  the Democratic Republic of the Congo and Tanzania  are home to almost half of Africa s poor  which inextricably links Africa s progress in reducing poverty to the performance of these countries 
+Furthermore  the depth of poverty in Africa is more extreme  For those living below the poverty line in Africa  the average consumption level is only US  70 a day  considerably below the level in other regions  which are all nearly approaching the  1 a day level  Africa Progress Panel  2014   This can also be seen in Figure 8  where around two thirds of the population in the four African regions  excluding North Africa  living below the  2 a day poverty line are living in extreme poverty  around one third live on   25 to  2 a day  In contrast  in South Asia  60 per cent of the poor live on average incomes between  1 25 and  2 a day 
+Figure 8  Poverty rates across Africa  LAC and South Asia  2010
+Source  World Bank  2014  PovcalNet 
+Note  Authors calculated average poverty rates per region using the United Nations regional classifications 
+Clearly  there are obstacles to Africa s poverty reducing power of growth  Indeed  the estimated growth elasticity of poverty in the two decades since 1990 in SSA is  0 7  which implies that a 1 per cent growth in consumption is estimated to reduce poverty by 0 7 per cent  Figure 9   For the rest of the world  excluding China   however  this elasticity is substantially higher  at  2 
+An important factor mediating the growth poverty relationship is  expectedly  inequality  Higher initial inequality has been shown to hamper the poverty reducing effects of growth  Ravallion  1997  Fosu  2009   In particular  Fosu  2009  calculates the income growth elasticities for 30 countries in SSA over the 1977 2004 period and reveals substantial variation in the estimates  from 0 63 in Namibia  a highly unequal country  to 1 4 in Ethiopia 
+10
+ 
+In addition  as noted above  it is not only growth that matters  but also where the sources of growth are located  Evidence has shown that growth in labour intensive sectors such as agriculture or manufacturing are typically more poverty reducing than growth in capital intensive sectors such as mining  Ravallion and Datt  1996  Khan  1999  Ravallion and Chen  2007  Loayza and Raddatz  2010   The growth path of many African economies where resource extractive industries are dominant would thus be an important determinant of the observed low growth poverty elasticities for the region 
+Figure 9  Growth elasticity of poverty
+ 0  1  2  3  4  5
+ 0 69
+ 2 02
+No controls SSA
+ 3 07
+ 3 81
+With controls Rest of the World
+        Source  World Bank  2013b  based on Christiaensen  Chuhan Pole and Sanoh  2013  
+Note  Controls include initial consumption  inequality and an indicator for a natural resource share  5  of GDP  Country fixed effects are controlled for in all results 
+Supporting the importance of these factors  it can be observed that when they are controlled for through a variety of variables  the growth elasticity of poverty in SSA approaches that of the rest of the world  Figure 9   The impact of growth on poverty reduction is lower when initial inequality and mineral resource dependence are higher  World Bank  2013b  
+High and rising levels of inequality is an important hindrance to poverty alleviation on the continent  arguably the biggest development challenge of the century  The following sections uncover some of the important drivers of inequality in Africa  within which it is argued  resource dependence plays a central role 
+IV  Drivers of inequity in economic growth patterns
+Despite the recent growth rates recorded in Africa  there is a genuine concern regarding the long term sustainability of Africa s rapid economic expansion and importantly  whether this high growth at the country level can be translated into achieving key development objectives  such as poverty reduction  a more equitable distribution of income  enhanced human capital accumulation  and improved infrastructure  The drivers of economic growth are then critical to understanding whether growth is likely to be sustainable  and more importantly  more inclusive  Economic theory and cross country experience have indicated that a more diverse economic base increases the probability of a sustained economic performance at the country level  This is also true because it more likely that the gains from growth driven by a more diverse range of economic sectors will be more equitably distributed  As discussed below  a more equitable income distribution results in a middle class that is able to act as the driver of domestic consumption 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 11
+Chapter IV  Drivers of Inequity in economic growth patterns
+Structural transformation is the reallocation of labour from low  to high productivity sectors  and the rate of this change can boost growth significantly  In Rodrik s  2014  typology of growth processes  it can be observed that rapid industrialization or structural change to high productivity sectors can quickly shift countries into middle  or upper income status  This highlights his evidence that modern manufacturing industries exhibit unconditional convergence to the global productivity frontier  Rodrik  2014   This is the classic pattern of growth in low income countries where surplus labour moves from agricultural activities to industrial jobs  spurred by an export led economic diversification strategy  In the later stages of this development process  however  growth begins to disproportionately rely on fundamental capabilities such as the availability and quality of institutions and human capital  For countries further along in the development process  i e  middle  income countries   growth tends to be more capital  and skills intensive  and more reliant on the services sector  In these countries  domestic demand is a key element of sustaining economic growth  and therefore  the impact that growth has on the distribution of income  insofar as it affects the size of the middle class  is an important growth challenge  Kharas and Kohli  2011   In the first section  it was evident that several middle income Southern African economies exhibit high levels of income inequality  which points to a small middle class  and that these economies have been growing at rates below comparator countries  It is in these contexts that the complexity of the growth inequality poverty nexus is fully revealed 
+In Africa  the agricultural sector remains an important contributor to GDP  particularly in West  East and Central Africa  where it contributes 29 per cent  36 per cent  and 40 per cent of GDP  respectively  Table 2   Over time  however  there has been a gradual shift away from the traditional agricultural sector  but not towards manufacturing as in the classic pattern of economic development  as experienced by the European industrialisers and more recently  East Asia  Where industry3 has grown in Africa  it is dominated by mining activities  which indicates there has been a considerable decline in manufacturing value added since the 1990s and 2000s across the continent  In contrast  the tertiary services sector has absorbed most of the shift away from agriculture  becoming the largest share in GDP for most parts of the continent 
+3 Industry comprises value added in mining  construction  electricity  water  gas and manufacturing   the last of which is also shown separately in the table 
+12
+Table 2  Sectoral breakdown of economic activity in Africa  1990  2000 and 2010 2012
+ Region
+ Sector
+ 1990 2000
+ 2010
+ 2011
+ 2012
+ 1990  2000 change
+ 2000  2012 change
+North Africa
+Agriculture    of GDP 
+21 46 18 81
+14 18
+14 33
+14 95
+ 2 65
+ 3 87
+Industry     of GDP 
+31 83 34 40
+35 59
+35 65
+35 69
+2 58
+1 29
+of which  Manufacturing    of GDP 
+15 17 14 28
+13 87
+13 93
+12 89
+ 0 89
+ 1 38
+Services    of GDP 
+46 71 46 78
+50 24
+50 02
+49 36
+0 07
+2 58
+West Africa
+Agriculture    of GDP 
+34 97 34 47
+31 27
+29 54
+28 83
+ 0 50
+ 5 64
+Industry    of GDP 
+21 82 23 41
+22 37
+24 47
+29 18
+1 59
+5 77
+of which  Manufacturing    of GDP 
+9 56 8 91
+6 00
+5 87
+5 99
+ 0 65
+ 2 92
+Services    of GDP 
+43 21 42 12
+47 26
+47 12
+43 08
+ 1 10
+0 96
+East Africa
+Agriculture    of GDP 
+39 91 32 74
+32 63
+32 92
+35 95
+ 7 17
+3 21
+Industry    of GDP 
+16 60 16 58
+18 45
+18 65
+17 06
+ 0 02
+0 49
+of which  Manufacturing    of GDP 
+8 82 7 81
+8 41
+8 26
+7 84
+ 1 01
+0 03
+Services    of GDP 
+43 49 50 68
+48 92
+48 43
+46 99
+7 19
+ 3 69
+Central Africa
+Agriculture    of GDP 
+30 83 25 01
+32 32
+32 13
+39 73
+ 5 83
+14 72
+Industry    of GDP 
+27 26 38 49
+36 71
+37 90
+27 59
+11 23
+ 10 90
+of which  Manufacturing    of GDP 
+10 97 7 05
+4 06
+4 13
+4 35
+ 3 91
+ 2 71
+Services    of GDP 
+41 91 36 51
+30 97
+29 97
+32 68
+ 5 40
+ 3 83
+Southern Africa
+ Agriculture    of GDP 
+ 18 44 14 68
+ 12 15
+ 11 78
+ 9 15
+ 3 76
+ 5 54
+Industry    of GDP 
+34 68 33 21
+32 84
+32 98
+31 73
+ 1 47
+ 1 49
+of which  Manufacturing    of GDP 
+17 92 15 39
+14 78
+14 16
+11 44
+ 2 53
+ 3 95
+Services    of GDP 
+ 46 88 52 40
+ 55 01
+ 55 24
+ 59 13
+ 5 52
+ 6 72
+    Source  World Development Indicators  2014 and own regional average and change calculations 
+Note  Industry corresponds to ISIC divisions 10 45 and includes manufacturing  ISIC divisions 15 37   It comprises value added in mining  manufacturing  also reported as a separate subgroup   construction  electricity  water and gas 
+  Industry corresponds to International Standard Industrial Classification  ISIC  divisions 10 45 and includes manufacturing  ISIC divisions 15 37   It comprises value added in mining  manufacturing  also reported as a separate subgroup   construction  electricity  water and gas 
+A closer examination of the dynamics of the secondary sector across African economies shows that  at an individual country level  only 15 of the 50 African countries included in this sample have increased the share of manufacturing in GDP since 2000  with many of the changes of a small magnitude  Figure 10   Figure 10 plots the change in manufacturing as a percentage of GDP against the change in mining and utilities as a percentage of GDP over the 2000 2010 period  A process of positive structural change over this ten year period would be one where there is a shift from mining value added toward manufacturing value added   represented by quadrant one  Only six African countries in our sample fall into this category  In contrast  the figure shows that in most African economies   35 out of 50 here   mining and utilities have seen a rising share in GDP over the period  The fast growing  resource rich economies of Zambia  Burkina Faso  Chad  Guinea  and Côte d Ivoire have witnessed some of the largest shifts of economic activity toward these two sectors  Conversely  there are also the fast growing economies of Angola  Nigeria  Ghana and Mozambique that have seen large declines in mining and utilities over this period  However  these are economies that are starting off on an initially very
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 13
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+high base  since they yield very large shares of mining in GDP  For example  for Angola and Nigeria  mining and
+utilities continue to contribute up to 53 per cent and 44 per cent of GDP  respectively 
+Figure 10  Change in industry and manufacturing as shares of GDP  percentage points  2000 2010 
+                                                                                                                                                                                                            Source  World Development Indicators  2014 and own calculations regarding the changes over time 
+Notes  1  Industry comprises value added in mining  construction  electricity  water and gas  Manufacturing has been removed from this category and represented separately 
+2  For some countries where 2010 data was not available  the latest available year after 2005 was used 
+Overall  Africa s transition out of the primary sector predominantly into tertiary sector activities has not resulted in preferred economic development outcomes  This is because these activities are largely informal and not particularly productive  Hence  the growth of these largely informal sector activities are concentrated in low productivity areas of economic activity  In attempting to calibrate this shift  McMillan  Rodrik and Verduzco Gallo  2014  estimate that structural change in Africa between 1990 and 2005 made a sizeable negative contribution to overall economic growth by as much as 1 3 per cent per annum on average 4 Labour has moved in the wrong direction  toward less productive sectors 
+Importantly  there is substantial heterogeneity in these African results  Nigeria and Zambia both exhibit negative structural change effects over the same 15 year period  where in both countries  the employment share of agriculture increased significantly  In Ghana  Ethiopia and Malawi  however  structural change over the 1990 2005 period was positive  in which the employment share of agriculture declined and that of manufacturing increased  MacMillan et al  2014  
+4 A similar result was found for Latin America  Asia was the only of the three regions where the contribution of structural change to economic growth over this period was positive 
+14
+ 
+Africa s growth path is therefore characterized by  being heavily dependent on natural resources  having experienced a poor performance of the manufacturing sector  that has the ability to absorb excess labour into higher productivity sectors  and having an over reliance on subsistence farming  Agricultural activities in Africa are largely low productivity activities  but retain a significant contribution to employment in many African countries  Furthermore  the skewed nature of land ownership and access to agricultural land is likely to have an important impact on incomes in rural areas  Although data on public investment in agriculture are sparse  data for 12 African countries show that only 3 2 per cent of total agricultural land is irrigated and the use of machinery  i e  tractors  is limited in this sample of economies  WDI  2014   Thus  the benefits of economic growth are accrued to more capital intensive sectors  This lack of economic diversification  particularly where there is a dependence on natural resources  makes African economies more vulnerable to external shocks  This may lead to a more volatile macroeconomic environment  which the poorest people are most vulnerable to 
+Positive structural transformation is relevant to the discussion on inequality since a vibrant manufacturing sector will generate a large number of labour intensive firms  which in turn boost wage employment  This would compress the wage distribution and hence decrease income inequality  In contrast  capital intensive sectors have the potential to generate higher economic growth  but fewer jobs  Therefore  depending on the nature of the growth inequality relationship in each economy  impacted by the sources of growth and initial conditions   either of the above growth paths can have a different impact on the distribution of income 
+V  Drivers of inequality in Africa  Microeconomic and institutional considerations
+The section above clearly emphasizes the role of the economic structure and the location of sources of growth within it in impacting on the income distribution of an economy  Furthermore  the paper has highlighted the importance of initial levels of inequality in determining the evolution of inequality throughout the growth process  For Africa  these two drivers of inequality are often highly connected 
+A historical institutional perspective provided by Acemoglu  Johnson and Robinson  2001   Acemoglu and Robinson  2010  and Bratton and van der Walle  1997  is summarized here  According to this literature  Africa has historically lagged behind in terms of institutional formation  An important factor behind Early Modern Europe s sustained economic growth was the reform of the state that moved away from absolutism  i e  where the power of the ruler is absolute and unconstrained by institutions  Acemoglu and Robinson  2010  and patrimonialism  i e  where the state is associated with the person of the ruler such that there is no distinction between the wealth or assets of the ruler and that of the state   While this transition was taking place in Western Europe  absolutism and patrimonialism were persisting in Africa and perhaps even intensifying  Thereafter  the 17th and 18th century intensification of the Atlantic slave trade catalysed warfare across the continent and fuelled the import of guns and ammunition that Europeans exchanged for slaves  This conflict and slavery had perverse effects on domestic economic and institutional formation  and distorted the incentives of those in power  institutions become  perverted by the desire to capture and sell slaves   Acemoglu and Robinson  2010  30   The end of the slave trade reduced the external demand for slaves  but gave rise to  legitimate commerce    i e  the export of African commodities to global economic powers   to which those who would have been sold as slaves were put to work in extractive industries  The subsequent impact of the European colonial period during the 19th century was to reinforce Africa s institutional path  remove the possibility of any endogenous institutional reform  and create the  dual economy   There was very little possibility for most Africans to transition from the traditional economy to the modern economy  or even acquiring the means to do so  such as education 
+Post colonial Africa has largely been unable to reform the absolutist structures that were imbedded in colonial political and institutional systems  These ideas rely on a form of path dependence  Furthermore  European
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 15
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+colonial powers arbitrarily put together very different ethnic groups of people and created countries that
+would be difficult to govern and vulnerable to conflict in the post colonial period 
+It is also important to note that ethnic fractionalization remains a driver of horizontal inequalities since it impacts on the way the state implements policies and provides public goods and services  Stewart  2002   Using data from 18 SSA countries  Jackson  2013  shows that  in ethnically diverse communities  access to water  electricity and education is lower  For education  in particular  he finds that those belonging to the dominant ethnic group have higher access to education rates  The reasons driving this could be that the language of instruction at schools disadvantages minority children and reduces the value of their education  Another reason could be that minority groups have inferior labour market opportunities  lowering the returns to education for them relative to majority groups  Alwy and Schech  2004  confirm this finding for Kenya  where they show that access to education is higher and the quality of education is better in the provinces from which the ruling elite came from 
+Finally  ethnic diversity has been shown to affect the ability of a community to act collectively  Collective action within ethnic groups has been shown to be more efficient than that between groups  and in effect  individuals in diverse communities are less willing to contribute to the public good  Vigdor  2004  Miguel and Gugerty  2005   This impacts on communities  ability to act together to hold governments accountable  thus perpetuating historical horizontal inequalities 
+In summary  the high levels of initial inequality in SSA is related to how the natural endowments in the region shaped the nature of colonial institutions  van der Walle  2009  Bigsten and Shimeles  2004   These created the conditions for the high levels of inequality found today  High levels of inequality post independence in many African economies  it is argued  resulted largely from the fact that there were small European populations  that still retained wealth   small highly extractive administrations and a focus on law and order rather than economic development  Upon independence  then  wealth was transferred to only a small group of African elite  Furthermore  there were sub national tensions  ethnicity  religion and or race  that further determined the initial distribution of resources and may continue to determine the provision of public goods and access to labour market opportunities  Within this context  this section will thus attempt to explore in more detail the role of extractive industries in driving inequality in Africa  primarily through its impact on governance 
+Natural resources and inequality
+Figure 11 shows the distribution of inequality  as measured by the Gini index on the x axis  across resource  and non resource dependent countries in Africa  plotted in red and black  respectively  The distributions are weighted by the size of each country s population  which is measured on the y axis  The graph shows that for the bulk of countries in Africa  the Gini coefficient ranges from 0 3 to 0 5  While the average levels of inequality are relatively similar between resource  and non resource dependent economies  there is clearly a difference at the upper end of the inequality distribution  there are a number of resource dependent countries with very high levels of inequality  close to and above 60  This suggests that while there is no clear link between inequality and resource dependence on average  there is a greater risk of high inequality outcomes in resource dependent economies 
+16
+Figure 11  Resource dependence and inequality
+ Source  World Bank WDI  PovcalNet  own calculations of the population weighting of the Gini coefficient 
+Notes  1  Kolmogorov Smirnov tests for equality of distributions cannot be rejected at the 5  level  2  Data weighted by population and based on latest available Gini coefficient
+Moreover  it will be shown that one of the key problems for resource dependent countries is not that they lack the revenues to achieve a more equitable growth path  but rather  that chronic governance and institutional failures prevent the effective use of large resource rents  One example is the lack of controls and safeguards needed to manage revenue flows from extractive industries so as to curb enormous illicit revenue outflows  which could cover health and education budgets many times over 
+Drivers of inequality in resource rich countries
+It has been widely reported that the commodity boom over the past decade has fuelled impressive growth performances in many African economies  However  this has not always translated into welfare gains for the populations of these economies  Due to rapidly rising income levels within highly unequal societies  the gains to growth have disproportionately accrued to the few richest  resulting in high levels of inequality and the widespread failures to meet many development targets  even by middle income countries like South Africa  Some of the important ways in which the reliance on extractive industries can drive within country inequality are outlined below 
+The cross country evidence of the monotonic effect of resource dependence on growth and development is inconsistent  Robinson  Torvik and Verdier  2006   and there is a growing body of literature to suggest that the quality of institutions is critical in determining whether or not natural resources are a curse  The link between growth driven by the extractive industry and inequality is mediated through governing bodies and institutions  There is therefore some evidence to suggest that the impact of resources on development is mainly indirect  through the channels of institutional quality  Bulte  Damania and Deacon  2005   The state is arguably the most important agent that can catalyse the redistribution of income in highly unequal societies by implementing fair fiscal policies  including progressive tax collection and spending in quality public services  and regulating market structures 
+There is no established literature on which to draw regarding the channels through which resource  dependence and institutions interact  but there are logical expositions as well as country examples that
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 17
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+guide our understanding  There are some studies that suggest that resource abundance can be a blessing for countries with good institutions and a curse for those with bad institutions  Mehlum  Moene and Torvik  2006   A view that extends this further  suggests that the institutional setting of a country is endogenous and changes with respect to resource endowments  Jensen and Wanchekon  2004   In this vein  the findings of an important study by Jensen and Wanchekon  2004  on Africa show that natural resource dependence can have a serious negative impact on both democratic transition and democratic consolidation  Collier and Hoeffler  1998   From the period 1970 to 1995  African countries with higher levels of resource dependence tended to be more authoritarian and were associated with higher government consumption and worse government performance  After an initial wave of democratization on the continent  more highly resource dependent countries slid back into authoritarian rule 5 Finally  there has been recent cross country evidence that the causality runs from weak institutions to resource dependence since these countries are unlikely to develop non primary production sectors  Brunnschweiler and Bulte  2006  
+According to Freedom House s 2014 report  Political Rights 6 the scores of 55 African countries show that the most highly resource dependent countries have the worst performing scores on average regarding the electoral process  political pluralism and functioning government  Table 3   Most of the countries in this group of countries are not considered  free  according to Freedom House s scoring methodology 
+Table 3  Resource dependence and political rights
+ Resource dependence
+  Political rights score
+ from 1 to 7  1 being the best score 
+   Highly dependent  80 100    13 countries
+ 5 62
+ Dependent  50 79    5 countries
+   4 20
+   Weakly dependent  25 49    17 countries
+ 3 88
+ Not dependent   25    20 countries
+   4 58
+   Total average
+  4 58
+  Source  Freedom House s Freedom in the World 2014 report  Own calculations regarding the average per resource dependence status 
+While there may not be a linear relationship between resource dependence and degree of political rights  there is some evidence that highly resource dependent economies are associated with lower levels of civil society engagement  less transparent electoral process and a less effective government  In sum  high resource  dependent economies are significantly more likely to be undemocratic than their African counterparts  Furthermore  the 13 countries that make up the top category include some of Africa s most populous countries such as Nigeria  the Democratic Republic of Congo and Algeria  which account for almost one third of Africa s population in total 
+Due to the lack of robust empirical work on the subject  the causality in the resource governance link is poorly understood  One direction of causality runs from the discovery of natural resources leading to weakened institutions given the opportunity for the political capture of rents  This is independent of whether the country had initially strong or weak institutions  Over the last five years  there has been much optimism about new natural resource discoveries in the East Africa Rift Valley  oil  as well as natural gas off the coasts of Kenya 
+5 A key example is Angola  where the civil war began immediately after independence in 1975 and continued intermittently for 26
+ years  even after the country adopted a new constitution and transitioned to democratic rule in 1992 
+United Republic of Tanzania and Mozambique  While this represents a major opportunity for this subregion 
+6 For each country  this is an average of scores on the following three indicators   i  Electoral Process   ii  Political Pluralism and thPaerrtiecipaartieona lraenadd iyii wFuonrcrtiieonsinagbGoouvterwnmhentth  er resource revenues will be used for the benefit of the majority 
+18
+In 2012  there were already concerns of corruption in Uganda when lawmakers passed a new oil bill that included a clause stating that the Minister of Petroleum shall be responsible for granting and revoking licences  Reuters  2012   Furthermore  there the potential for cross country conflict in negotiating oil and gas deals  The Economist  2012  and within country conflict needs to be managed effectively  In the United Republic of Tanzania  the discovery of natural resources is now at the centre of the separatist movement debate between Zanzibar and the mainland since it remains unclear whether the responsibility of the extraction of oil and gas is that of Zanzibar  where it should create its oil petroleum company  or of mainland Tanzania 
+When institutions are initially weak  i e  where natural resources are then discovered  or the economy becomes more dependent on natural resources   there is inherently a weaker ability to translate this type of growth into welfare gains  This also indicates that where a country initially has strong  transparent  and accountable institutions  the ability to optimize the benefits of natural resource driven growth is enhanced  A good example of this is Ghana  a country with a history of good institutions and resource dependence  and which after the discovery of offshore oil in 2007  has become more dependent on the natural resource sector to drive growth  Nonetheless  Ghana has continued to do well in improving the country s socio economic indicators 
+Despite the studies mentioned above on the relationship between natural resources and institutions  the determinants of corruption and the channels through which institutional quality affects growth and development have in particular received little attention  Even within democratic states  there are specific mechanisms that reduce the effectiveness of resource revenues in contributing to economic and social development  and in particular to reducing inequality  A key channel is the provision of licences to allow for the extraction of natural resources  Opportunity for political capture of resource rents within the process of granting licences can arise when the process relies on the discretion of public officials  such as a Minister of Mining or Energy  and where there is no transparency in the process  Licensing  then  is a key portal through which rent seeking and corrupt practices may occur  Even in situations where there are the correct incentives in place for African authorities  they may not have the capacity to negotiate  administer and monitor the mining contracts in order to maximize the domestic benefits 
+The high initial capital cost of entry into the natural resources markets can also lend itself to monopolistic or oligopolistic market structures  While this is not particular to the resource sector  it is a defining characteristic and a key reason that inequality outcomes may be perpetuated through a growth path of this form  in addition to the issue of higher pricing leading to a less than optimal allocation of resources in the economy  economic literature has highlighted two further problems associated with markets that are controlled by a single or few firms  first  the resulting excess economic profit from higher prices  transferred from consumers to the monopoly  may result in an inequitable distribution of income  and second  the concentration of income by the monopoly also provides it with greater political influence over policies that might alter the market structure  Therefore  the fact that there are few licences to be granted means that the lobbying by multinationals and other large companies for these licences lends itself to acts of corruption and bribery 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 19
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+Figure 12  The Resource Governance Index  Composite scores for developed and developing
+countries  2013
+                   Source  Own graph  Revenue Watch  2013 
+According to the composite scores of the Resource Governance Index  Figure 12  7 which takes into account licensing and contracting procedures  32 of the 58 countries mentioned had weak or failing institutions  Half of these weak or failing states were African  Over 75 per cent of the African countries included in the index had weak or failing resource governance bodies  The positive developing country examples such as several Latin American countries included in the Index suggest  however  that mechanisms are available to overcome a possible bias toward weak institutions in resource dependent developing countries 
+Second  as noted above  extractive industries are often characterized by their capital intensity  therefore limiting employment creation  Figure 6 shows that among the 20 African economies with the highest growth in capital formation  17 are resource dependent economies  most of which  as shown above  are the fastest growing economies on the continent  Where jobs are created within these extractive industries  they are often higher skilled jobs  Given that a low skills base is often characteristic of low income African countries  high skilled labour is often imported into these economies  These two factors of a low job creation quotient combined with a skills biased pattern of labour demand contribute to maintaining high levels of inequality and perhaps even increasing inequality levels 
+The South African economy  for example  has historically struggled with a consistently high rate of unemployment  24 1 per cent  Stats SA  2013  and inequality  Gini index  65  World Bank  2011   For the 2001  2007 period  the South African economy had a simple output employment elasticity of only 0 64  Bhorat  Goga and Stanwix  2013   This decreased substantially in the 2008 2010 post crisis period to  0 16  which indicates that employment declined over this period  At the same time  however  the expansion in the South African economy was driven by tertiary sectors such as financial services and community services  which indicated that medium  and high skilled occupations experienced significant gains  Changes in the skills intensity of the South Africa labour force is expected to have implications on the distribution of income   increasing wage premia for higher skilled workers and declining wage premia for workers in jobs that involve automated or routine tasks  ibid  
+7 The Resource Governance Index categorizes states into four score categories  which are marked in the figure by the vertical lines  failing  0 40  weak  41 50  partial  51 70  and satisfactory  71 100 
+20
+ Norway United States  Gulf of Mexico  United Kingdom Australia  Western Australia  Brazil Mexico
+Canada  Alberta  Chile Colombia
+Trinidad and Tobago Peru India Timor Leste Indonesia Ghana Liberia Zambia Ecuador Kazakhstan Venezuela South Africa Russia Philippines Bolivia Morocco Mongolia Tanzania Azerbaijan Iraq Botswana Bahrain Gabon Guinea Malaysia Sierra Leone China Yemen Egypt
+Papua New Guinea Nigeria Angola Kuwait Vietnam Congo  DRC  Algeria Mozambique Cameroon Saudi Arabia Afghanistan South Sudan Zimbabwe Cambodia Iran Qatar Libya Equatorial Guinea Turkmenistan Myanmar
+Score  1 100 
+0 20 40 60 80 100
+Figure 13  Gross capital formation  annual   growth   2008 2012
+                                Source  World Development Indicators  2014  own graph 
+Third  which is related to the issue above  levels of beneficiation and secondary industry creation are relatively low  which again hinders wide scale job creation and in particular the creation of better quality jobs  Resource  dependent economies showing high growth in capital formation such as the Central African Republic and Côte d Ivoire have  as shown above  also seen manufactured goods as a percentage of GDP decline by 7 and 4 percentage points  respectively  from 2007 to 2011  World Development Indicators  2014   While this decline in manufacturing  shown earlier in Figure 10  is within the context of a lack of structural transformation  this phenomenon can also be explained as a symptom of the well established Dutch Disease  the crowding out of non resource investment  Papyrakis and Gerlagh  2004   or hampered financial sector growth  Beck  2011   However  potentially equally relevant is the emerging political economy literature that suggests that where elites are in control of resource revenues  they may be able to resist industrialization  which has the potential of diluting their political and economic power base  Isham et al  2003  
+Fourth  lost resource revenues through illicit financial flows significantly deplete a country s tax revenues which could arguably be used for productive  distribution neutral or inequality reducing investment such as infrastructure upgrading and social services  Illicit financial flows occur through various channels  Due to the combination of tax incentives offered by developing countries and aggressive tax planning by multinational companies  they can minimize tax payments through profit shifting strategies 
+Fifth  trade mispricing through intra company trade within complex company structures  Sixth  illegal tax evasion due to complex ownership structures and lack of transparency on beneficial ownership  And seventh  the presence of government corruption 
+At the top of the investment chain in Africa s extractive industries are multinational corporate entities  which regularly report annual earnings that are  for example  11 and 14 times the GDP of Zambia and the Democratic Republic of the Congo  respectively  The presence of offshore registered companies within these ownership structures limits public disclosure requirements and the use of subsidiaries and affiliates as conduits for intra  company trade creates opportunities for trade mispricing and tax avoidance sin companies can maximize the profit reported in low tax jurisdictions 
+Finally  using WDI s data on Social Protection  it emerges that while all African countries perform poorly  highly resource dependent countries perform the worst  This further emphasizes the potentially skewed
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 21
+Sierra Leone Central African Republic Cote d Ivoire
+Ghana Mozambique Ethiopia Liberia
+Togo Cameroon Zambia Congo  Rep  Tanzania Rwanda Mauritania Guinea Lesotho Algeria Madagascar
+Equatorial Guinea Kenya
+Growth  
+0 10 20 30 40
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+distributional outcomes of resource revenues in these economies  A recent international Monetary Fund  IMF  report suggests that progressive taxation is underutilized in developing countries as a redistributive tool  with income tax in particular having the potential to significantly reduce inequality  as occurs in many more developed economies  IMF  2014  
+Ultimately  then  the above has suggested that the state and its associated institutions are potentially able to intervene in ways that reduce the potential inequalities arising from a dependence on natural resource sectors  There are  however  a number of potential channels through which a natural resource dependent economy may lead to rising inequality  Through the political capture of rents  through ineffective and unprogressive tax systems or overly complicated ownership structures of extractive industry companies  when industrialization and human capital upgrading strategies are poorly realized  and when states do not fully consider appropriate social welfare programmes  The latter in particular has been shown to be effective in improving the well being of citizens in other developing countries such as South Africa  These problems in turn are all inextricably linked to poor governance and a lack of transparency in government expenditure collection and allocations 
+Governance and institutions
+Despite the governance and institutional challenges that remain in most African countries  the continent has transitioned toward more democratic leadership over the last two decades  According to Freedom House  there were only four full electoral democracies in Africa in 1990  which increased to 20 countries by this year  While democratization has come in waves  with countries shifting between democratic and other regimes  democratic principles are becoming entrenched in some societies  Nonetheless  elections in Africa do not always produce representative governments and with poorly educated electorates  it is difficult to hold elected governments accountable 
+The previous section focused more explicitly on the link between institutions related to natural resources and the possible impact on inequality  More generally  however  the state has the potential to play a key role in reducing inequality  Fundamentally  the effective management of public funds and investment in key areas such as education and job creating industries can only positively contribute toward narrowing the income distribution  Furthermore  it could also leave fiscal space for targeted social protection policies for the most vulnerable  Regulating market structures  as mentioned in the previous section  is also an important aspect of state regulation  which can help to create more equitable market structures 
+These elements of governance go beyond following democratic processes and require the capacity to design and implement effective policies 8 regulate efficiently  and the political will to eradicate negative elements such as corruption that serves only to enrich political elites in otherwise low income countries  These are areas in which African governments perform poorly  Figure 15 shows selected governance indicators for African subregions over time 
+ 8 Even when public investments are made  they are often not equitably spread out within countries  This may drive inequality along spatial lines  for example  urban rural  and may exacerbate conflicts within countries 
+22
+Figure 14  Selected governance indicators for Africa  2000 and 2012
+ Source  Worldwide Governance Indicators  World Bank 2014  own graph 
+Notes  Each indicator score ranges from  2 5 to 2 5  with the highest score being the best 
+It is clear that  on average  corruption  i e  measured as perceptions of the extent to which public power is abused for private gain as well as capture of the state by elites and private interests  has worsened across the continent since the beginning of the 2000s  In addition  the quality of policy formation and implementation  and the credibility of the government s commitment to such policies are represented by  Government effectiveness  and show that  on average  governments have become less effective in these areas over the last decade  Overall  African countries score poorly on all of the above governance indicators  A positive trend is the improving score on  Voice and accountability   which indicates  as the rising democratization of the continent would suggest  that citizens are increasingly able to participate in selecting their governments and that there is greater freedom of expressions  association and the media  An active citizenry  with adequate space for non governmental organizations  NGOs  and civil society groups  is critical here to expose poorly performing governments and to demand better institutions that are focused on inclusive economic growth and development 
+Demographic changes and the labour market
+The nature and response of the labour market in the growth poverty inequality interactions is important  Two examples of where the labour market is important in this arena may strengthen this point  First  in the context of examining the inequality growth relationship  labour demand responses during growth episode of an economy will often shape and influence the private distributional consequences from growth  A typical example of this response on the basis of cross country evidence has been the advent of skills biased labour demand shifts  where domestic economies have witnessed a disproportionate increase in the demand for skilled relative to unskilled workers during the periods of economic growth  The non neutrality of response in the occupational labour demand function to economic growth is critical to understanding how economic growth can and does have distributional and poverty consequences 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 23
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+A second example of the relevance of the labour market to these broader debates is within the arena of initial income inequality  It is entirely possible that high levels of initial income inequality are in large part located within the labour market  High levels of initial wage inequality in a society may be precisely the labour market expression of how initial income inequality impacts on growth poverty elasticities  Relatively high wage incomes from the formal as opposed to the informal economy  for example  may be the key determinant of initial income inequality in a society 9 The reason  in turn  that Gini coefficients are so inelastic to economic growth may in part lie with the difficulty in  and long run returns to  altering an unequal and poor quality schooling system within an economy  Human capital formation must therefore feature as one of the key issues identifying both the cause and solution for overcoming the low growth poverty elasticities yielded through high inequality levels  This is particularly important when considering the projected demographic changes for Africa  where the growth of the young working age population is expected to be rapid 
+The regional population growth rate projections for the 2010 2030 period are illustrated in Figure 15  It is evident from the graph that the population of the working age   defined as age 15 64   is projected to contract in Europe and grow in single digits for North America  The growth of the global workforce will be driven by Asia  Latin America and Africa  More specifically  the region projected to have the fastest growing working age population is Africa  This translates into a working age population of 793 million in 2030  a 70 per cent rise from the current 466 million  It is projected that in SSA there will be an additional 15 6 million people on average per year to the working age population in 2015 2020  rising to 17 2 million per year in 2020 2025  and to 19 million per year in 2025 2030 
+Understanding the composition of the growth in the working age population is important given that it is the rapid entry of young workers that is most likely to put pressure on the labour market  The magnitude of the expected growth between 2010 and 2030 in Africa s youth population  15 24  is enormous  38 7  compared to  2 4  in Latin America and  7 1  in Asia  Figure 15   Lam and Leibbrandt  2013  provide an example from Africa s most populous country  Nigeria  to illustrate the extent of the youth bulge in Africa  They show that while the growth in the 15 24 age population in Nigeria has fallen from its mid 1990s peak  it is expected to remain above 2 per cent until 2030  resulting in Nigerian youth continuing to make up one third of the labour force for the entire period 
+ 9 It is through standard income source decompositions of the Gini coefficient  for example  see Lerman and Yitzhaki 1985   that one can empirically establish the contribution of regular wage or self employed income to overall inequality   relative to  for example  state transfers of interest income 
+24
+Figure 15  Percentage increase in size of age groups in working age population  2010 to 2030  medium variant 
+         13 4  18 7
+ 9
+ 7 1
+ 2 4
+Age 15 24 Age 25 44 Age 45 64 Age 15 64
+   2 9
+16 2 15 3
+18 4 16 1
+ 19 5
+ 50 6
+60 5
+48 7
+        Europe
+North America
+Asia
+World
+Latin America
+Africa
+2 3
+7 2 9 3
+1
+5 7
+11 9
+40
+34 9
+42 4 38 7
+                30  20  10 0 10 20 30 40 50 60 70
+Percentage increase
+Source  ILO  2011  
+The fact that Africa s working age population is expected to grow so rapidly  particularly the working youth  highlights that it is relatively not as far along in its demographic transition as many other regions of the world  While this implies a great opportunity for potential growth in the region  it also alludes to the increasing challenge of promoting growth that is job creating 
+The above suggests that there are two main implications of Africa s projected demographic changes on its labour force  First  most of the world s working age population growth will emanate from Africa  From 10 per cent of the global labour force in 2010  this is set to increase to 15 per cent  ILO  2011   Second  most of this growth will originate from young workers in Africa  who are primed to stream into the labour market at an average annual rate of over 2 per cent10 in the 2010 2030 period 
+Turning to the current global labour market landscape  Table 4 shows that of the 3 billion people in the global labour force  only half of them are in wage employment  which is loosely defined as employment in which one earns a wage  either formal  officially recognized contract  or informal  oral implicit contract   In SSA  however  a large majority  74 per cent  of the 297 million employed individuals are not in formal wage employment but  rather  are self employed 11 This indicates that the incomes of most of the employed in SSA are directly dependent on the profits of their enterprise  which are typically more variable than income from wage employment  Also unique to the region is that  on average  56 per cent of the labour force work in agriculture  compared to 25 per cent of the labour force in both other non OECD countries and for the global average  Ultimately  then  77 per cent of the self employed in SSA work in agriculture  compared with the corresponding figure of 55 per cent for other non OECD countries 
+10 The total percentage change of young workers in SSA  age 15 24  over the 2010 2030 period is 55 per cent 
+11 According to ILO  1993   wage employment refers to jobs  where the incumbents hold explicit  written or oral  or implicit
+employment contracts which give them a basic remuneration     in the form of wages  Self employment is defined as  jobs where the remuneration is directly dependent upon the profits  or the potential for profits  derived from the goods and services produced  where own consumption is considered to be part of profits   
+ UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 25
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations Table 4  The Global Labour Market at a Glance  2010  million 
+  Region
+ Wage employ  ment
+ Self  employment Total
+ of which  Self  employment  agriculture
+ of which  Self  employment  non agriculture
+ Total
+ Unemployment
+ Labour force
+SSA
+61 00
+236 00
+181 00
+55 00
+297 00
+23 00
+320 00
+ 0 19 
+ 0 74 
+ 0 56 
+ 0 17 
+ 0 93 
+ 0 07 
+ 1 00 
+Other non OECD
+1 118 00
+1 068 00
+584 00
+484 00
+2 186 00
+134 00
+2 320 00
+ 0 48 
+ 0 46 
+ 0 25 
+ 0 21 
+ 0 94 
+ 0 06 
+ 1 00 
+OECD
+333 00
+50 00
+7 00
+43 00
+383 00
+32 00
+415 00
+ 0 80 
+ 0 12 
+ 0 02 
+ 0 10 
+ 0 92 
+ 0 08 
+ 1 00 
+Global total
+ 1 512
+1 354
+772 00
+581 00
+2 866
+189 00
+3 055
+ 0 50 
+  0 44 
+  0 25 
+  0 19 
+  0 94 
+  0 06 
+  1 00 
+     Source  Adapted from Bhorat  2013  
+Notes  1  The data are based on the World Bank s International Income Distribution Database  I2D2  dataset  which is a harmonized set of household and labour force surveys drawn from a multitude of countries 
+2  Shares of regional labour force estimates in parenthesis 
+A segmented understanding of an African developing onomy labour market necessarily needs to account for informal work  but more particularly  informal agricultural work and associated labour dynamics  Since labour in the region primarily involves activities related to working on land in rural areas  typically low earning work   employment in the current context  self employed agricultural work with associated inadequate earnings  will not be sufficient to narrow the income distribution and thus reduce income inequality 
+To show this relationship  Figure 16 plots the ratio of the wage share of employment to the agricultural share of employment against the Gini coefficient for a range of developing and developed countries across the world  There is a weakly negative relationship suggesting that  in countries with a high ratio of wage to agricultural employment  i e  where wage employment is sufficiently dominant  income inequality is lower  Much of Africa  however  is characterized by shares of wage employment that are too small within domestic labour markets  These small shares of largely urban  public sector wage jobs arguably exacerbate existing inequalities within the relevant economies 
+26
+Figure 16  Wage agricultural employment and inequality
+ Source  World Bank  2012   Author s own graph 
+The typology of Africa s jobs challenge is evident in the above data  In the first instance  since agriculture is so central to the average African economy  policies designed to promote growth in this sector  increase its global competitiveness and essentially serve as mechanisms for reducing the incidence of working poverty are critical  Increased income generation through agriculture is a key avenue for a reduction in overall income inequality in Africa  Second  large numbers of predominantly young people are entering Africa s fast growing cities in search of employment  The majority end up in urban self employment or unemployment  Rendering the informal sector a more sustainable form of employment  creating linkages to the formal sector and providing an enabling business environment for this sector to thrive is essential to a more equitable growth path  Finally  growing Africa s currently miniscule wage employment base must be a key strategy to reduce inequality and grow domestic economies for African governments  Expanding the light manufacturing sector is only one important job generating growth strategy  which has worked in the high success economies of East Asia 
+Education and human capital development
+The achievement of a primary enrolment rate above 80 per cent in Africa  on average  has garnered much praise in the international development community  Beyond this  however  the core problem in overcoming the economic development constraint remains the upgrading of the level of human capital in most of Africa  The poor quality of educational systems together with poor post primary education enrolment rates are central to Africa s human capital challenge and to a more equal future growth and development trajectory  To show the extent to which secondary school enrolment has collapsed in Africa  Figure 17 illustrates the gap between primary and secondary school enrolment rates of countries in SSA against the rest of the regions of the world 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 27
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+Figure 17  Median net enrolment rates   the gap between SSA and the rest of the world  2012
+Source  Authors  own calculations using data from UNESCO Institute for Statistics  2013  
+Notes  1  Where 2012 data were not available for certain countries  the latest available year 2010 was used  the earliest data used is 2010 
+2  The United Nations regional categories have been used to categorize countries  3  There are no data for secondary education enrolment in North Africa 
+The figures make it clear that while SSA performance  in terms of primary school enrolment  lags behind that in other developing country regions of the world  it is the secondary school results that are disconcerting  The data reveal that for the 2012 cohort of learners  the median secondary schooling enrolment in SSA was approximately 30 percentage points below that found in South Asia and 57 percentage points lower than Western Asia  In addition  the secondary schooling enrolment was around 55 percentage points below the median for the world as a whole  Differential enrolment rates as one moves from primary to secondary schooling increase sharply and dramatically  These significant and large shifts in enrolment rates as one moves from primary to secondary schooling are strongly suggestive of a secondary schooling system within the SSA region that is significantly under performing relative to international comparators  For Africa to move its economy toward higher productivity sectors   not only to sustain growth  but also to reduce inequality by creating gainful employment for its citizens   it needs an adequate supply of skilled labour 
+The regional variation in Table 5 shows that Central Africa has the lowest secondary school enrolment  with an almost 50 percentage point difference in primary and secondary enrolment  Excluding North Africa  which has the best performing enrolment rates in Africa  Southern Africa has the highest secondary enrolment rate  but the level is still less than half of primary school enrolment 
+ Table 5  Enrolment rates in Africa  2011
+    gross
+ Central Africa
+ East Africa
+ North Africa
+ West Africa
+ Southern Africa
+  Pre primary Primary Secondary Tertiary
+22 85 24 92 108 55 99 31 32 99 43 99
+6 88 6 92
+56 94 108 57 69 17 23 03
+69 34 15 72 120 23 98 84 51 27 45 73 10 20 9 78
+         Source  World Development Indicators  2014 
+Notes  1  Latest available data 
+2  Gross enrolment rates can exceed 100  due to the inclusion of over aged and under aged students because of early or late school entrance and grade repetition 
+28
+ In addition to enrolment rates  even the quality of education given to the children to attend school is poor  The Brookings Institute s Learning Barometer  2012  provides some insights into Africa s schools  It covers 28 countries and draws on regional and national assessments to identify minimum learning thresholds for Grades 4 and 5 of primary school 
+Figure 18  Per cent of schoolchildren not learning effectively while in school
+Source  Center for Universal Education at Brookings  2014  Authors  own graph 
+The figures in Figure 18 show that over one third of pupils covered in the survey fall below the minimum threshold  with substantial variation across countries  In addition to enrolment rates  even the quality of education given to those children who attend school is poor  Figure 19   The Brooking s Institution s Learning Barometer  2012  provides some insights into Africa s schools  it covers 28 countries and draws on regional and national assessments to identify minimum learning thresholds for Grade 4 and 5 of primary school  Most worrying are the cases of Nigeria  Ethiopia and Zambia  where more than half of students in Grades 4 and 5 are below the minimum learning threshold  Even in the upper middle income countries of Namibia and South Africa  this figure is over 30 per cent 
+The effects of children not learning effectively in school can be seen more clearly when African students are compared to those in other developing countries  Using TIMSS data for Grade 8 students  the results of standardized mathematics and science tests can be compared  Ranking countries from worst to best  Figure 19 shows that the five African countries do not compare favourably to comparator countries such as Turkey  Thailand and Chile  and are at the bottom of the distribution  Over 50 per cent of Grade 8 pupils in these five middle income African countries score poorly on mathematics and science  at below 475  which represents the intermediate international benchmark 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 29
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations Figure 19  Grade 8 mathematics and science results
+                                                                                                                                                                                                        Source  TIMMS  2011  Authors  own graph 
+Notes  1  According to the TIMMS methodology  four points in the overall subject scales are identified as international benchmarks  400 is the low international benchmark  475 is the intermediate international benchmark  550 is the high international benchmark  and 625 is the advanced international benchmark 
+2   SA  represents South Africa 
+Figure 20 illustrates a more holistic picture of Africa s  conversion rate  within the educational system in order to combine the issues of enrolment and the quality of education  The data represented here calculate the shares of individuals within a cohort who would have enrolled at primary school and then progressed through the schooling and higher education system 12
+ 12 The Technical Vocational  Education and Training  TVET  data was not sufficiently reliable to allow for inclusion into this series  It is doubtful  however  that this would change the substance of the results obtained 
+30
+Figure 20  Conversion rates from primary to tertiary education  2011
+ Source  Bhorat  forthcoming  using data from UNESCO Institute of Statistics  2013  
+Notes  1  Primary refers to the net enrolment ratio  NER  in primary education of primary school aged children 
+2  Secondary is calculated as the product of the NER and the ratio of the transition from primary to secondary education for each region 
+3  Tertiary is calculated as the product of secondary and the gross enrolment in tertiary education for each region 
+For Africa  the data suggest that there is an equal collapse in the conversion rates from primary to secondary schooling as there is in the conversion from secondary to tertiary enrolment  This is in contrast to the performance of the other regions of the world  even when compared to the developing region of LAC  In essence  for Africa  the data show that for every 100 children of primary school age  only four are expected to enter a tertiary educational institution  In the LAC region  36 out of every 100 within the cohort should make it to a higher education institution  and even in South and West Asia  this figure is substantially higher than SSA  at 14 per 100 individuals  These figures highlight the rapid attrition from the schooling system and serve as a powerful indicator of the ineffectiveness of Africa s educational system  Furthermore  although not shown here  the region is also not producing graduates that match the supply characteristics  which are in demand by employers within these African economies 
+Ultimately  then  the data suggest the presence of a serious deficiency in the supply of graduates from the schooling and higher education system in Africa  This is compounded by the poor quality of these graduates  In the view of long run economic growth  currently espoused by Thomas Piketty and others  human capital accumulation is one key mechanism through which to overcome a growth path where the rate of return on capital  r  exceeds the rate of economic growth  g    r g  To generate a more equal growth path  thus equalizing r and g  it is argued that the schooling and educational pipeline plays a potentially crucial role in an economy s long run growth trajectory  In Africa  on the basis of this supply side evidence  it is clear that the continent is far from producing a schooling and higher education system  which is sufficiently inequality  reducing 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 31
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations
+Box 1  Returns to schooling as a driver of inequality in South Africa
+ The South African schooling  vocational training and higher education system does not currently provide the ingredients for the pursuit of longer run higher and more equal growth outcomes  We make this point below by comparing mean scores by country on the Trends in International Mathematics and Science Study  TIMSS   The TIMSS is an ongoing cross country standardized testing instrument  which measures mathematics and physics competence in country  at various levels of the schooling system  The survey has been ongoing since 1995 and remains one of the most widely used comparisons for educational performance  The results for South Africa reinforce the extent to which the country   in a sample of emerging market peers   lags behind considerably in schooling performance  graph not shown  
+The mean scores for mathematics and science for South Africa are 1 7 and 1 8  respectively  Putting this into perspective  the global average for the two subjects was between 26 and 28 percentage points higher than that of South Africa  Hungary  Slovenia and Korea readily score twice as high  while Turkey  Thailand and Malaysia produce results are between 35 and 70 per cent higher than South Africa  Only Ghana in the sample scores below South Africa 
+A more powerful reflection of the failure of the South African schooling system may lie in the production function estimates provided below  The results in Table A are based on a two stage  semi parametric production function which controls for both the simultaneity and non linearity concerns  Olley and Pakes  1996   Here  as is standard in the growth literature  the logged number of employed are measured as well as those in the population as a whole  by education level 
+Table A  Production function estimates of schooling  1995 2012
+ Variables
+  Employed
+   Population
+   Source  Bhorat  Cassim and Tseng  2014  
+Note  Standard errors in parentheses      p 0 01     p 0 05    p 0 1
+1  Control variables are those for capital and investment expenditure  Capital  a stock variable  is measured by the rand value of tangible goods including fixed property  plant and equipment  while investment captures its gross formation  All variables are logged 
+2  Capital and investment expenditure include 3rd order polynomials  which serve as additional controls  to proxy for the unobserved productivity shocks and resolve the simultaneity problem of the functional relationship between investment and capital 
+3  A constant term is not included because the model assumes that the effect of TFP is invested within labour by various levels of education as human capital gains 
+        None
+   0 024
+ 0 029
+ Primary
+   0 023
+   0 164
+  Secondary
+  0 145
+ 0 669   
+ Matric
+  0 159
+    0 037
+  Certificate
+    0 05
+   0 025
+  Degree
+   0 104  
+  0 095 
+ The results are stark  They suggest that when examining the employed only  the entire schooling pipeline does not significantly contribute to long run economic growth in the South African economy  In South Africa  a significant and positive impact on economic growth is recorded only where the employed have a qualification from a higher education institution  When the sample is switched to the population as a whole  the secondary schooling system does have some positive impact on economic growth  Ultimately  however  the evidence suggests either a weak or non responsive schooling system in South Africa with respect to impacting on productivity gains and economic growth 
+The notion  then  that income inequality can be mitigated through human capital accumulation  is surely not feasible within the schooling environment in South Africa  It is not evident that South Africa is at a point at which the institutions of human capital can act as a mechanism for growth convergence 
+The above suggests that on the basis of low economic growth  a divergence from the growth trajectory of high income economies and poor quality outcomes in human capital  South Africa s economic growth path would be both uneven and highly unequal  This growth path  without the channels through which to more evenly distribute the gains from growth  would be delivering growth to those with high initial endowments of land  capital and education  Indeed  this is in many ways this is a reflection of the general nature of South Africa s long run growth path  More details on the method  testing approach  questionnaire and detailed results can be found at http   timssandpirls bc edu   
+  
+Gender dimensions of inequality
+While the labour market and educational system challenges contribute to inequality  gender disparities within these institutions are an important source of inequality in Africa  The United Nations  Gender Inequality Index is a composite measure that reflects inequality in achievement between men and women in three dimensions  reproductive health  empowerment and the labour market  where the lower the score  the closer the gender parity  In the global distribution of scores for which there is data  152 countries   only three African countries score above the median   Libya  Tunisia and Mauritius  African countries are concentrated at the upper end of the distribution  with 28 out of 39 scoring in the worst quartile  Figure 21   The South Asian countries of India  Pakistan and Bangladesh perform better on the Gender Inequality Index than countries such as Malawi  Zambia and Mozambique  which are relatively higher income countries 
+Figure 21  The Gender Inequality Index  upper half of the global distribution  2014
+          Source  United Nations Development Program  Data from the Human Development Report  2014  Authors  own graph
+Notes  African countries are highlighted in maroon 
+An important driver of gender inequality is access to education  which remains crucially important in determining individual s labour market outcomes  Since the late 1990s  there has been some progress in equalizing access to education for girls and boys in SSA  However  this has predominantly been achieved at the primary education level  Figure 22   Over this same time  there has been no progress on average in achieving gender parity in secondary schooling and there has been a widening of gender inequality in tertiary educational enrolment  This has occurred during a time when  in most other parts of the world  there have been improvements in gender parity at higher levels of education 
+UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 33
+Maldives Moldova Mongolia Viet Nam Kyrgyzstan Tajikistan Philippines Rwanda Myanmar El Salvador Namibia Paraguay Nicaragua Morocco South Africa Bolivia Nepal Honduras Botswana Bhutan Indonesia Burundi Cambodia Gabon Zimbabwe Samoa Guatemala Guyana Bangladesh Swaziland Uganda Lao PDR Senegal Iraq Ethiopia Kenya Ghana Tanzania Syria Lesotho India Pakistan Togo Egypt Malawi Haiti Burkina Faso Benin Congo Papua New Guinea Zambia Cameroon Gambia Sudan Sierra Leone Mauritania Côte D Ivoire Central African Rep  Liberia Mozambique DRC Mali Afghanistan Chad Niger Yemen
+Gender Inequality Index
+0  2  4  6  8
+Chapter V  Drivers of inequality in Africa  Microeconomic and Institutional considerations Figure 22  Ratio of girls to boys enrolment in school
+Source  The Economist  2013  adapted from United Nations data  see www economist com blogs freeexchange 2013 11 gender  inequality
+These differences in educational attainment are important as they predict gender gaps in employment and earnings  According to the International Labour Organization s  ILO s  2012 Report on Global Employment Trends for Women  only 14 per cent of working women in Africa are in wage employment compared to 29 per cent of employed men  Just under 40 per cent of working women are contributing family members  compared to 80 per cent for men  Income is associated with empowerment and decision making power within households  where women remain disadvantaged 
+In some African countries  it may not be an issue of gender discrimination per se  but one of a general lack of educational institutions to cater to the growing needs of those populations  In these cases where girls and boys compete for places at school  girls have to often sacrifice their place  Other related issues include the need for child labour to supplement household income during difficult periods  or culturally rooted biases  Gender inequality is no doubt a complex problem in Africa  as it is in some other parts of the world  and one that requires ongoing and heterogeneous policy responses 
+   34
+VI  Conclusion
+This paper aimed to provide a broad overview of the nature and pattern of inequality in Africa  The descriptive statistics highlight that it is difficult to draw simple generalizations about the nature and pattern of inequality across Africa since there is substantial variation in both levels and changes over time  However  a few key observations do emerge  First  on average  Africa has higher than average and median inequality than the rest of the developing region  Second  a notable feature of inequality on the continent is the presence of seven economies exhibiting extremely high levels of inequality  the  African outliers   which also drive this inequality differential with the rest of the developing world  Third  over time  based on the available data  average levels of inequality have declined in Africa  driven mostly by the economies not classified as highly unequal  It also emerges that  when estimating the relationship between growth and inequality in Africa  for those countries with initially high levels of inequality  there is a stronger relationship between economic growth and inequality  a confirmation of the cross country evidence outside of Africa 
+In terms of the drivers of inequality in Africa  it is shown above that the dependence on natural resources and its deleterious impact on building effective  transparent and accountable institutions remain key determinants of the high levels of inequality on the continent  Second  due to the labour market structure of many African economies  there are large proportions of the labour force involved in low income agricultural self employment or in informal sector jobs  which  when compared to the small share of wage employment in many African economies  often exacerbate inequality  The low stock of human capital is also central to this phenomenon  Individuals with a sufficient level and quality of education are able to earn high wage premia in the formal labour market  Until a large enough supply of skilled workers is available  inequality inducing skills premia will persist in African labour markets 
+Clearly  growth alone is not enough to lower inequality and reduce poverty in Africa at a rapid enough pace  Growth originating from capital intensive sectors has a low likelihood of creating the kinds of formal jobs that are needed to narrow the income distribution  There is a need to enhance the industrial base of African economies and to build effective higher education institutions that are able to respond to the demands of a growing economy  This would place African economies on a more inclusive and equalizing growth path 
+Policy issues
+While economic growth remains crucial for policy formulation  the sources of this growth may be more so  Due to the need for economic diversification in Africa  policies to support positive structural change are key  These policies will vary from country to country  but include those related to improving agricultural productivity and nurturing key manufacturing sectors that exploit comparative advantage and are able to create decent jobs  To create decent jobs  there are clearly policies related to economic fundamentals that need to be implemented effectively  improve infrastructure in key areas  make use of information and communications technology  ICT  technology to spur growth  reform poor educational systems  and invest in research and development  R D  
+In countries that are dependent on natural resources  there are key areas of reform that are need to ensure a more equitable distribution of the benefits of resource revenues  Licensing is a key portal through which rent  seeking and corrupt practices may occur  to prevent this  it is important that the process of granting licences be conducted in a transparent manner and through a fairer system such as a bidding system  Furthermore  details of mining contracts should be publicly available  as well future revenue streams generated from the sector  so that governments and large mining companies can be held accountable  These are some of international standards that EITI is seeking to establish 13
+ 13 EITI  2013    The EITI Standard   see http   eiti org files English_EITI 20STANDARD_11July_0 pd
+ 35
+Furthermore  these resource rich countries receive large revenues flows that need to be managed better  from adequate taxation to redistributive policies such as social transfers  Regarding transfers to the poor  this is a strategy that has received increasing attention and has been suggested by several influential analyses and case studies in recent years  Gelb and Majerowicz  2011  Moss and Young  2009  Devarajan et al   2013   Based on country case studies in Africa and Latin America  evidence suggests that the cost of social security programmes in many African countries are not prohibitive  Tax revenues lost due to illicit capital flows would be sufficient to cover social protection programmes many times over  In essence  then  a  starter pack  in social protection may be a policy intervention worthy of serious consideration  This  pack  can have significant poverty reduction effects and does not necessarily constitute a very high share of GDP  and is thus particularly affordable for all of Africa s resource dependent economies 
+The role of education in improving people s labour market outcomes is a key channel through which inequality can be reduced  There are three key areas of educational system reform required  First  there is the need to increase enrolment rates at secondary school level and tertiary education  since these are the critical levels of education that provide the necessary skills for individuals to be productive in the labour market  Second  the enhancement of learning outcomes for those in school is critical  To this end  teachers need to be adequately trained  investment should be made in schooling infrastructure  and teachers should make use of technology as learning aids where possible  Finally  providing incentives for sending children to school  especially girls who remain disadvantaged  will be critical in unleashing the productive power of women and youth in Africa 
+The state and its institutions play a central role in reducing inequality  Mechanisms to keep in the state in check need to be put in place to prevent the use of state resources for personal gain  Capacity building within the state is also critical for the effective implementation and monitoring of development policy  Furthermore  the state has an important role in fostering social cohesion in ethnically diverse societies  This can be achieved by educating people about diversity and by removing discriminatory elements such as forms of discrimination against minority groups in the labour market 
+Furthermore  there are some key areas of research that are required to inform the African policy agenda more concretely  First  the continued focus on improving the statistical capacity of African countries is important for ensuring that quality research can be conducted  Second  country specific research at the microeconomic level is needed to more accurately understand the evolution and drivers of inequality   i e  asset  income  horizontal and other forms   given any country s specific historical and institutional setting  Finally  there is also a key need to understand the dynamics of the growth poverty inequality relationship for specific groups of countries  for example  countries that are dependent on natural resources  fragile states or post conflict economies 
+36
+VII  References
+Acemoglu  D  and J  A  Robinson  2010   Why is Africa Poor  Economic History of Developing Regions  25 1   21 50 
+Acemoglu  D    S  Johnson and J  A  Robinson  2001   The Colonial Origins of Comparative Development  An Empirical Investigation 
+American Economic Review  91  1369 1401 
+Adams  R  H   2004   Economic growth  inequality and poverty  Estimating the growth elasticity of poverty  World Development 
+32 12   1989 2014 
+Africa Progress Panel  2013   Africa Progress Report  2013  Equity in Extractives  Geneva  Switzerland 
+Africa Progress Panel  2014   Grain Fish Money  Financing Africa s Green and Blue Revolutions  Geneva  Switzerland 
+African Union   2014   Common African Position  CAP  on the Post Development Agenda  African Union  Addis Ababa  Ethiopia 
+Alwy  A  and S  Schech  2004   Ethnic Inequalities in Education in Kenya  International Education Journal  5 2  
+Amadou  S   2014   Shifts in Financing Sustainable Development  How Should Africa Adapt in 2014  Brookings Africa Growth Initiative  AGI  Brief  Washington DC 
+Appleton  S   1999   Changes in Poverty in Uganda  1992 1997  University of Oxford  Department of Economics  Economic Series Working Papers WPS 1999 22 
+Beck  T   2011   Finance and Oil  Is There a Resource Curse in Financial Development  European Banking Center Discussion Paper No  2011 004 
+Beck  T    S  M  Maimbo  I  Faye and T  Triki  2011   Financing Africa  Through the Crisis and Beyond  African Development Bank  BMZ  and World Bank Report 
+Bhorat  H    S  Goga  and B  Stanwix  2013   Occupational Shifts and Shortages  Skills Challenges Facing the South African Economy   LMIP report   Online  Available from  http   www  lmip  org  za sites default files events LMIP 20Report 201 20 Occupational 20Shifts  pdf
+Bhorat  H   2013   The Challenge of Job Creation  Input to the post 2015 HLP Agenda  Cape Town  Development Policy Research Unit  University of Cape Town   Available upon request 
+Bhorat  H   Forthcoming   Growth  Employment Creation and Poverty Reduction  An Overview Evidence and Possible Applications to Africa  In E  Thorbecke  and A  McKay  eds   Economic Growth and Poverty Reduction in Sub Saharan Africa  Current and Emerging Issues  Oxford University Press 
+Bigsten  A  and A  Shimeles  2004   Prospects for Pro Poor Growth in Africa  UNU WIDER Research Paper No  2004 02 
+Botero  J  C    S  Djankov  R  La Porta  F  Lopez de Silanes and A  Shleifer  2004   The Regulation of Labour  Quarterly Journal of
+Economics   November   1339 82 
+Bourguignon  F   2002   The Distributional Effects of Growth  Case studies vs  Cross country Regressions  DELTA Working Paper
+2002 23  Paris  DELTA 
+Bratton  M  and N  van de Walle  1997   Democratic Experiments in Africa  Regime transitions in comparative perspective  New York  Cambridge University Press 
+Brunnschweiler  C  N  and E  H  Bulte  2006   Reverse Causality and the Resource Curse   Paradoxes and Red Herrings  Mimeo  Tilburg 
+Bulte  E  H    R  Damania  and R  T  Deacon  2005   Resource Intensity  Institutions  and Development  World Development  33 7   1092 44 
+Canagarajah  S    and S  Thomas  2001   Poverty in a Wealthy Economy  International Monetary Fund  IMF Working Papers  02 114 
+  37
+Christiaensen  L    P  Chuhan Pole and A  Sanoh  Forthcoming   Africa s Growth  Poverty and Inequality Nexus   Fostering Shared Prosperity  World Bank Report 
+Collier  P  and A  Hoeffler  1998   Greed and Grievance in Civil War  Oxford Economic Papers  50 4   563 573 
+Collier  P  and W  Gunning  1999   Explaining African Economic Performance  Journal of Economic Literature  37 1   64 111 
+Datt  G  and M  Ravallion  1992   Growth and Redistribution Components of Changes in Poverty Measures  Journal of Development Economics 38  275 295 
+Demombynes  G    and J  G  M  Hoogeveen  2004   Growth  Inequality  and Simulated Poverty Paths for Tanzania  1992 2002  World Bank Policy Research Working Paper  3432 
+Dermirguc Kunt  A  and L  Klapper  2012   Measuring Financial Inclusion  The Global Findex Database  World Bank Policy Research Working Paper 
+Devarajan  S  and M  Giugale  2013   The Case for Direct Transfers of Resource Revenues in Africa  CGD Working Paper 333  Devarajan  S    and W  Fengler  2012   Is Africa s Recent Economic Growth Sustainable  Washington DC  World Bank  Dollar  D  and A  Kraay  2002   Growth is Good for the Poor  Journal of Economic Growth  7 3   195 225 
+Easterley  W   2009   How the Millenium Development Goals are Unfair to Africa  World Development  37 1   26 35 
+Eifert  B  and V  Ramachandran  2004   Competitiveness and private sector development in Africa  Crosscountry evidence from the World Bank s investment climate data  Occasional paper series  Institute for African Studies  Ithaca  NY  Cornell University 
+Eifert  B    Gelb  A    and V  Ramachandran  2008   The Cost of Doing Business in Africa  Evidence from Enterprise Survey Data  World Development  36 9   1531 1546 
+Ferriera  F  and M  Ravallion  2008   Global Poverty and Inequality  A Review of the Evidence  World Bank Policy Research Working Paper 
+Ferriera  F  H  G    S  P  Firpo and J  Messina  2014   A More Level Playing Field  Explaining the Decline in Earnings Inequality in Brazil  1995 2012  IRIBA Working Paper  12  September  Manchester  UK 
+Fields  G   2000   The Dynamics of Poverty  Inequality and Economic Well being  African Economic Growth in Comparative Perspective  Journal of African Economies  9  AERC Supplement   45 78 
+Forteza  A  and M  Rama  2001   Labor Market Rigidity and the Success of Economic Reforms across More than 100 Countries  Mimeo  The World Bank  Washington  DC 
+Foster  J  E    J  Greer and E  Thorbecke  1984   A Class of Decomposable Poverty Measures  Econometrica  52 
+Fosu  A  K   2009   Inequality and the Impact of Growth on Poverty  Comparative Evidence for Sub Saharan Africa  Journal of
+Development Studies  45 5   726 745 
+Fosu  A  K   2014   Growth  Inequality and Poverty in Sub Saharan Africa  Recent Progress in the Global Context  CSAE Working
+Paper WPS 2014 17  Oxford  University of Oxford 
+Freedom House  2014   Freedom in the World 2014   Online  Available from  https   freedomhouse  org report freedom world 
+freedom world 2014   VGscBPmUd8E  Accessed  11 November 2014 
+Gelb  A  and S  Majerowicz  2011   Oil for Uganda   or Ugandans  Can Cash Transfers Prevent the Resource Curse  CGD Working
+Paper 261 
+Gutierrez  C  C  Orecchia  P  Paci and P  Serneels  2007   Does Employment Generation Really Matter for Poverty Reduction  World Bank Research Working Paper  No  4432  Washington  D  C    World Bank 
+Heckman  J and C  Pagés  2003   Law and Employment  Lessons from Latin America and the Caribbean  NBER Working Paper 10129   Online  Available from  www  nber  org papers w10129
+38
+   
+ChapterVII  References
+Huppi  M  and M  Ravallion  1991   The Sectoral Structure of Poverty During an Adjustment Period  Evidence from Indonesia in the Mid 1980s  World Development  19 12  
+International Monetary Fund  IMF   2014   Fiscal Policy and Income Inequality  IMF Policy Paper 
+IMF  2011   Regional Economic Outlook  Sub Saharan Africa Recovery and New Risks  Washington DC 
+International Labour Organization  ILO   2011   World Population Prospects  The 2010 Revision  New York 
+International Labour Organization  ILO   2012   Global Employment Trends 2012  Preventing a deeper jobs crisis  Geneva 
+International Labour Organization  ILO   2012   Global Employment Trends for Women  Geneva  ILO   Online  Available from 
+http   ilo  org wcmsp5 groups public    dgreports    dcomm documents publication wcms_195447  pdf
+Isham  J    M  Woodcock  L  Pritchett  Land and G  Busby  2003   The varieties of resource experience  How natural resource export structures affect the political economy of economic growth  Middlebury College Economics Discussion Paper 03 03  Middlebury College  Vermont 
+Islam  R   2004   The Nexus of Economic Growth  Employment and Poverty Reduction  An Empirical Analysis  Recovery and Reconstruction Department  International Labour Office  Geneva 
+Jackson  K   2013  Diversity and the distribution of Public goods in Sub Saharan Africa  Journal of African Economies  22 3   427  462 
+Jensen  N  and L  Wanchekon  2004   Resource Wealth and Political Regimes in Africa  Comparative Political Studies  37 7   816 841 
+Kaberuka  D   2013   Sustaining Africa s Economic Growth  The Challenges of Inclusion and Financing Infrastructure  Taken from speech given by the President of the African Development Bank at the AACB Symposium on Financial inclusion in Africa  The challenges of financial innovations for monetary policy and the stability of financial system  August 2013   Online  Available from  www  afdb  org en news and events article sustaining africas economic growth the challenges of inclusion and financing  infrastructure afdb president donald kaberuka 12215   Accessed  October 2013 
+Kahn  B   2005    Original Sin  and Bond Market Development in Sub Saharan Africa  In  Africa in the World Economy  The National  Regional and International Challenges  Fondad 
+Kakwani  N   1993   Poverty and Economic Growth with Application to Côte D Ivoire  Review of Income and Wealth  39  2  June  Kanbur  R and L  Squire  1999   The Evolution of Thinking About Poverty  Exploring the Interactions  In G  Meier and J  Stiglitz  eds 
+  Frontiers of Development Economics  The Future in Perspective  Oxford University Press 
+Kanbur  R   2005   Growth  Inequality and Poverty  Some Hard Questions  Journal of International Affairs  Spring  
+Kanbur  R   2004   Growth  Inequality and Poverty  Some Hard Questions  Institute for Social and Economic Change  Working Papers 157 
+Kanbur  R   2008   Globalisation  Growth and Distribution  Framing the Questions  Commission on Growth and Development  Working Paper No  5  The World Bank  Washington 
+Khan  H   1999   Sectoral Growth and Poverty Alleviation  A Multiplier Decomposition Technique Applied to South Africa  World Development 27 3   521 530 
+Kharas  H  and H  Kohli  2011   What is the Middle Income Trap  Why do Countries Fall into it  and How can it be Avoided  Global Journal of Emerging Market Economies  3 3   281 289 
+Kharas  H   2014   More and Better Financing for Development  World Bank blog   Online  Available from  http   blogs  worldbank  org futuredevelopment more and better financing development
+Kuznets  S   1955   Economic Growth and Income Inequality  The American Economic Review  45  1  
+     UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 39
+Lam  D  and M  Leibbrandt  2013   Global Demographic Trends and their Implications for Employment  Paper prepared as background research for the Post 2015 UN MDG Development Agenda on Employment and Employment Growth 
+Lazear  E   1990   Job Security Provisions and Employment  Quarterly Journal of Economics  August  699 726 
+Lerman  R I  and S  Yitzhaki  1985   Income Inequality Effects by Income Source  A New Approach and Applications to the United
+States  The Review of Economics and Statistics 1  151 156 
+Li  H   Lyn Squire and H F  Zou  1998   Explaining International Inequality and Intertemporal Variations in Income Inequality  Economic
+Journal  108  26 43 
+Loayza  N  and R  Claudio  2006   The Composition of Growth Matters for Poverty Alleviation  World Bank Research Working Paper 
+No  4077  Washington  D C   World Bank 
+Loayza  N  V   2010   The Composition of Growth Matters for Poverty Alleviation  Journal of Development Economics 93 1   137 151 
+Loayza  N  V   M  Oviedo and L  Serven  2005   The Impact of Regulation on Growth and the Informal Sector  Cross Country Evidence  Unpublished mimeo  World Bank  Washington DC 
+McCulloch  N   B  Baulch and M  Cherel Robson  2000   Poverty  Inequality and Growth in Zambia during the 1990s  Working Paper  Institute for Development Studies  University of Sussex 
+McMillan  M   D  Rodrik and I  Verduzco Gallo  2014   Globalisation  Structural Change  and Productivity Growth  with an Update on Africa  World Development  63  11 32 
+Mehlum  Halvor  Karl Moene and Ragnar Torvik  2006   Institutions and the Resource Curse  The Economic Journal  116  1 20  Miguel  E  and M K  Gugerty  2005   Ethnic Diversity  Social Sanctions and Public Goods in Kenya  Journal of Public Economics  89 
+2325 68 
+Moss  T  and L  Young  2009   Saving Ghana from Its Oil  The case for Direct Cash Distribution  CGD Working Paper 186 
+Ostry  J   A  Berg  and C  G  Tsangarides  2014   Redistribution  Inequality and Growth  IMF Staff Discussion Note 
+Papyrakis  E  and R  Gerlagh  2004   The Resource Curse Hypothesis and Its Transmission Channels  Journal of Comparative Economics  32 1   181 93 
+Ravallion  M   1994   Can High Inequality developing countries escape absolute poverty  Economics Letters 56  51 57 
+      2000   On Decomposing Changes in Poverty into Growth and Redistribution Components  Journal of Quantitative Economics 
+16 1   105 18 
+      2001   Growth  Inequality and Poverty  Looking Beyond Averages  World Development  29 11   1803 1815 
+      2004   Pro Poor Growth  A Primer  World Bank Research Working Paper 3242  The World Bank  Washington 
+Ravallion  M and S  Chen  1997   What Can New Survey Data Tell Us About Recent Changes in Poverty and Distribution   World Bank Economic Review  11 2   357 382 
+      2007   China s  Uneven  Progress Against Poverty  Journal of Development Economics 82  1 42 
+Ravallion  M   and Datt  G   1996   How Important to India s Poor is the Sectoral Composition of Economic Growth  The World Bank
+Economic Review 10 1   1 25 
+      2002   Why has economic growth been more pro poor in some states of India than others  Journal of Development Economics
+68  381 400 
+Reuters  2012   Ugandan lawmakers pass oil bill  worry about corruption  12 December  2012   Online  Available from  http   www 
+reuters com article 2012 12 07 uganda oil idUSL5E8N7AJH20121207
+Robinson  J A   R  Torvik and T  Verdierr  2006   Political foundations of the resource curse  Journal of Development Economics  79  447 68 
+40
+  
+ChapterVII  References
+Rodrik  D   2014   An African Growth Miracle  New Jersey  Institute for Advanced Study  Princeton 
+Ssewanyana  N S   A J  Okidi  D  Angemi and V Barungi  2004   Understanding the Determinants of Income Inequality in Uganda  Working Paper  WPS 2004 29  Centre for the Study of African Economies  University of Oxford 
+StatsSA  2013   Quarterly Labour Force Survey  December 
+Stewart  F   2002   Horizontal Inequalities  A neglected dimension of development  QEH Working Paper Series QEHWPS81  Centre for Research on Inequality  Human Security and Ethnicity  University of Oxford 
+Sunderland Addy  E   2008   Gender Equity in Junior and Senior Secondary Education in Sub Saharan Africa  African Human Development Series  Washington DC  World Bank 
+The Brookings Institution   2012   Africa Learning Barometer  Brookings   Online  Available from  www brookings edu research  interactives africa learning barometer  Accessed  1 September 2014 
+The Economist  2012   Eastern El Dorado   Online  Available from  http   www economist com node 21552265 fsrc scn fb wl ar  easterneldorado
+The Economist and IMF  2011   Africa s Impressive Growth  Retrieved from The Economist   Online  Available from  www economist  com blogs dailychart 2011 01 daily_chart
+Think Africa Press  2012   Reserving Judgement on Tanzania s Natural Gas Discoveries   Online  Available from  http   thinkafricapress  com tanzania nascent gas industry potential or potentially dangerous 430billion
+UNESCO Institute for Statistics  2012   Adult and Youth Literacy  UIS Factsheet No  20   Online  Available from  www uis unesco org  literacy Documents fs20 literacy day 2012 en v3 pdf  Accessed  1 September 2014 
+UNU WIDER  2014   World Income Inequality Database V3 0B  UNU WIDER   Online  Available from  http   www wider unu edu  research WIID3 0B en_GB database   Accessed  11 November 2014 
+Van der Walle  N   2009   The Institutional Origins of Inequality in Sub Saharan Africa  The Annual Review of Political Science  12  307  327 
+Vigdor  J  L   2004   Community Composition and Collective Action  Analyzing Initial Mail Response to the 2000 Census  The Review of Economics and Statistics  86  303 12 
+Watkins  K   2013   Too Little Access  Not Enough Learning  Africa s Twin Deficit in Education  Brookings   Online  Available from  www brookings edu research opinions 2013 01 16 africa learning watkins  Accessed  1 September 1 2014 
+World Bank  2013a   Equal Opportunities  Better Lives  Gender in Africa  Washington DC  World Bank  2013b   Africa s Pulse  An analysis of Issues Shaping Africa s Economic Future  7 
+World Development Indicators  2014  The World Bank   Online  Available from  http   data worldbank org data catalog world  development indicators  Accessed  31 October 2014 
+World Health Organization  WHO    2014   World Health Statistics 2014  WHO 
+            UNDP RBA Working Paper Series Vol 1   1  Growth  Poverty and Inequality Interactions in Africa  An Overview of Key Issues 41
+
