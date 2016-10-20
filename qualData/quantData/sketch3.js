@@ -3,7 +3,14 @@ var w = 1200;
 var h = 500;
 var pad = 1;
 
-d3.csv("data/WDI/sortelec.csv", function(data){
+d3.queue()
+.defer(d3.csv,"data/WDI/sortelec.csv")
+.defer(d3.csv,"data/ssaCountries.csv")
+.await(analyze);
+
+function analyze(error,data, ssa){
+	if(error)console.log(error)
+
 //d3.csv("data/WDI/agland13sort.csv", function(data){
 //d3.csv("data/WDI/agland60sort.csv", function(data){
 	console.log(data)
@@ -41,6 +48,11 @@ var tooltip = d3.select('body').append('div')
 		.attr("height", h)
 		.style("background", "#DDDDDD");
 
+var ssastring = "";
+for(var i=0;i<ssa.length;i++){
+	ssastring += "," + ssa[i].SSA.toString()
+}
+console.log(ssastring)
 
 	var chart = svg.selectAll("rect")
 		.data(data.map(function(d){return{
@@ -49,7 +61,11 @@ var tooltip = d3.select('body').append('div')
 			Country_Name: d.Country_Name
 		}}))
 		.enter().append("rect")
-			.style('fill', function(d){return colors(d._2012)})
+			.style('fill', function(d){
+					if(ssastring.includes(d.Country_Name)){
+						return "#FFFFFF";		
+						}else{return colors(d._2012)}
+					})
 			.style('stroke', '#DDDDDD')
 			.attr("x", function(d,i){return xscale(i)})//i*(w/data.length);})
 			.attr("y", h)//function(d){return h-yscale(d._2012)})
@@ -80,4 +96,4 @@ var tooltip = d3.select('body').append('div')
 		.delay(function(d,i){return i*2;})
 		.duration(1000)
 		//.easeElasticIn(1000)
-})
+}
