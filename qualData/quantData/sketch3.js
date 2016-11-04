@@ -4,7 +4,7 @@ var h = 500;
 var pad = 1;
 
 d3.queue()
-.defer(d3.csv,"data/WDI/sortelec.csv")
+.defer(d3.csv,"electricity.csv")
 .defer(d3.csv,"data/ssaCountries.csv")
 .await(analyze);
 
@@ -15,6 +15,7 @@ function analyze(error,data, ssa){
 //d3.csv("data/WDI/agland60sort.csv", function(data){
 	console.log(data)
 	data.forEach(function(d){ d['_2012'] = +d['_2012'];});
+	data = data.sort(function(a, b) {return a['_2012'] - b['_2012'];})
 	var items = data.length;
 	var max = d3.max(data, function(d){return d._2012});
 	var min = d3.min(data, function(d){return d._2012});
@@ -63,8 +64,8 @@ console.log(ssastring)
 		.enter().append("rect")
 			.style('fill', function(d){
 					if(ssastring.includes(d.Country_Name)){
-						return "#FFFFFF";		
-						}else{return colors(d._2012)}
+						return colors(d._2012);		
+						}else{return "#FFFFFF"}
 					})
 			.style('stroke', '#DDDDDD')
 			.attr("x", function(d,i){return xscale(i)})//i*(w/data.length);})
