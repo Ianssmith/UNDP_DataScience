@@ -1,6 +1,6 @@
 >I am studying power grid infrstructure and agriculture because I want to find out who/why/how it is that there are regions without access to electricity and Africa imports food, in order to understand how/why/what governments are spending money on if not this. I am considering/comparing/using financial and economic variables such as government debt and expenditure. My visualization is based on WorldBank world development indicators data.
 
-live example:-> [Food imports vs. Access to Electricity] (https://ianssmith.github.io/major-studio-1/qualData)
+live example:-> [Food imports vs. Access to Electricity] (https://ianssmith.github.io/major-studio-1/quant2)
 
 # major-studio-1
 ## Quantitative Data
