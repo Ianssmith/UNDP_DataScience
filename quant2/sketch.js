@@ -86,15 +86,15 @@ var yscale = d3.scaleLinear().domain(d3.extent(data, function(d){return d.elec})
 var rMax = d3.max(data, function(d){var an = Math.sqrt(d.ag/Math.PI);console.log(an);return an})
 console.log(Math.floor(rMax))
 var rscale = d3.scaleLinear().domain(d3.extent(data, function(d){
-	return d.ag})).range([80,15000])
+	return d.ag})).range([30,10000])
 
 var fullrMax = d3.max(data, function(d){var an = Math.sqrt(d.sqkm/Math.PI);console.log(an);return an})
 console.log(Math.floor(fullrMax))
 var fullrscale = d3.scaleLinear().domain(d3.extent(data, function(d){
-	return d.sqkm})).range([80,15000])
+	return d.sqkm})).range([30,10000])
 
 var poprscale = d3.scaleLinear().domain(d3.extent(data, function(d){
-	return d.pop})).range([80,15000])
+	return d.pop})).range([30,10000])
 
 var piescale = d3.scaleLinear().domain([0,100]).range([0,360])
 var radscale = d3.scaleLinear().domain([0,360]).range([0,2*Math.PI])
@@ -133,9 +133,10 @@ var yAxis = d3.axisLeft(yscale)
 	svg.append("text")
 		.attr("class", "label")
 		.attr("x",width/2)
-		.attr("y",height -10)
+		.attr("y",height -5)
 		.style("text-anchor","middle")
 		.style("font-weight","bold")
+		.style("font-size", "26px")
 		.text("Food Imports (as % of total merchandise imports)");
 
 	svg.append("g")
@@ -146,10 +147,11 @@ var yAxis = d3.axisLeft(yscale)
 	svg.append("text")
 		.attr("class", "label")
 		.attr("transform", "rotate(-90)")
-		.attr("x",-200)
+		.attr("x",-120)
 		.attr("y",30)
 		.style("text-anchor","end")
 		.style("font-weight","bold")
+		.style("font-size", "26px")
 		.text("% of Population with access to electricity");
 
 	var update = d3.select("svg").selectAll('g')
@@ -246,6 +248,34 @@ var yAxis = d3.axisLeft(yscale)
 		});
 
 		update.on("click", function(d){
+			d3.select(this)
+				.append("line")
+				.attr("class", "#mark")
+				.attr("x1",function(el,i){return xscale(el.food)})
+				.attr("y1",function(el,i){return yscale(el.elec)})
+				.attr("x2",function(el,i){return xscale(el.food)})
+				.attr("y2", function(el,i){return yscale(el.elec)})
+				.transition()
+				.style("stroke", "white")
+				.style("opacity", "0.5")
+				.attr("x1",function(el,i){return xscale(el.food)})
+				.attr("y1", function(el,i){return yscale(el.elec)})
+				.attr("x2",function(el,i){return xscale(el.food)})
+				.attr("y2", function(el,i){return Math.sqrt(yscale(poprscale(el.pop)/Math.PI))*(Math.sin(radscale(0)))})
+
+				/*d3.select(this).append("text")
+					.attr("x",function(el,i){return xscale(el.food)})
+					.attr("y",function(el,i){return yscale(el.elec)})
+					.style("fill", "white")
+					.transition()
+					.style("fill", "lightgrey")
+					.style("opacity", "0.5")
+					.text("0%")
+					.attr("x",function(el,i){return xscale(el.food)})
+					.attr("y", function(el,i){
+					.attr(return yscale(el.elec)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.sin(radscale(piescale(el.percity))));
+					});
+					*/
 			
 			d3.select(this)
 				.append("line")
@@ -260,11 +290,11 @@ var yAxis = d3.axisLeft(yscale)
 				.attr("y1", function(el,i){return yscale(el.elec)})
 				.attr("x2",function(el,i){
 					var ans = xscale(el.food)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.cos(radscale(piescale(el.percity))));
-					return ans-Math.PI/4
+					return ans//-Math.PI/4
 					})
 				.attr("y2", function(el,i){
 					var ans = yscale(el.elec)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.sin(radscale(piescale(el.percity))));
-					return ans-Math.PI/4
+					return ans//-Math.PI/4
 					});
 
 				d3.select(this).append("text")
@@ -276,11 +306,11 @@ var yAxis = d3.axisLeft(yscale)
 					.text(function(el){return el.percity+"%"})
 					.attr("x",function(el){
 						var ans = xscale(el.food)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.cos(radscale(piescale(el.percity))));
-						return ans-Math.PI+10
+						return ans//-Math.PI+10
 						})
 					.attr("y",function(el){
 						var ans = yscale(el.elec)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.sin(radscale(piescale(el.percity))));
-						return ans-Math.PI+15
+						return ans//-Math.PI+15
 						})
 
 			d3.select(this)
@@ -296,11 +326,11 @@ var yAxis = d3.axisLeft(yscale)
 				.attr("y1", function(el,i){return yscale(el.elec)})
 				.attr("x2",function(el,i){
 					var ans = xscale(el.food)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.cos(radscale(piescale(((((el.pop*el.percity)/100)*el.slum)/100)*100/el.pop))));
-					return ans-Math.PI/4
+					return ans//-Math.PI/4
 					})
 				.attr("y2", function(el,i){
 					var ans = yscale(el.elec)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.sin(radscale(piescale(((((el.pop*el.percity)/100)*el.slum)/100)*100/el.pop))));
-					return ans-Math.PI/4
+					return ans//-Math.PI/4
 					})
 
 				d3.select(this).append("text")
@@ -312,11 +342,11 @@ var yAxis = d3.axisLeft(yscale)
 					.text(function(el){return el.slum+"%"})
 					.attr("x",function(el){
 						var ans = xscale(el.food)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.cos(radscale(piescale(((((el.pop*el.percity)/100)*el.slum)/100)*100/el.pop))));
-						return ans-Math.PI+10
+						return ans//-Math.PI+10
 						})
 					.attr("y",function(el){
 						var ans = yscale(el.elec)+ Math.sqrt(poprscale(el.pop)/Math.PI)*(Math.sin(radscale(piescale(((((el.pop*el.percity)/100)*el.slum)/100)*100/el.pop))));
-						return ans-Math.PI+15
+						return ans//-Math.PI-15
 						})
 				
 			d3.select(this).select("circle")
