@@ -7,3 +7,17 @@ body{
 	font-family: 'Droid Serif', serif;
 	font-weight: 'bold'
 }
+.xlabel{
+	font-family: 'Droid Serif', serif;
+	font-weight: 'bold'
+}
+.ylabel{
+	font-family: 'Droid Serif', serif;
+	font-weight: 'bold'
+}
+.xnav{
+	display:inline;
+}
+.rnav{
+	display:inline;
+}
