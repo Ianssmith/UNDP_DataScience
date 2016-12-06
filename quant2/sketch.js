@@ -213,11 +213,12 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 				else{return "0.5px"}
 			})
 		.style("stroke", function(d){
-			if(d.elec == 100){
-				return "#fcc30b"
-			//}else if(d.ag >50000){
-				//return "#01FF70"
-			}else if(d.ag >100000){
+		//	if(d.elec == 100){
+		//		return "#fcc30b"
+		//	//}else if(d.ag >50000){
+		//		//return "#01FF70"
+		//	}else
+			 if(d.ag >100000){
 				return "#56c02b"
 			}else{
 				return "#222222"
@@ -496,10 +497,10 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 			//console.log("it works")	
 
 d3.selectAll("circle").remove()
-d3.select(".y_axis").remove()
-d3.select(".ylabel").remove()
-d3.select(".xlabel").remove()
-d3.select(".label").remove()
+d3.selectAll(".y_axis").remove()
+d3.selectAll(".label").remove()
+d3.selectAll(".ylabel").remove()
+d3.selectAll(".xlabel").remove()
 
 
 ////axes vvvv
@@ -567,11 +568,12 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 				else{return "0.5px"}
 			})
 		.style("stroke", function(d){
-			if(d.elec == 100){
-				return "#fcc30b"
-			//}else if(d.ag >50000){
-				//return "#01FF70"
-			}else if(d.ag >100000){
+		//	if(d.elec == 100){
+		//		return "#fcc30b"
+		//	//}else if(d.ag >50000){
+		//		//return "#01FF70"
+		//	}else 
+			if(d.ag >100000){
 				return "#56c02b"
 			}else{
 				return "#222222"
@@ -865,10 +867,10 @@ vvvvvvvvvvvvvvv CHANGE Y TO GINI  vvvvvvvvvvvvvvvvvv
 			//console.log("it works")	
 
 d3.selectAll("circle").remove()
-d3.select(".y_axis").remove()
-d3.select(".label").remove()
-d3.select(".ylabel").remove()
-d3.select(".xlabel").remove()
+d3.selectAll(".y_axis").remove()
+d3.selectAll(".label").remove()
+d3.selectAll(".ylabel").remove()
+d3.selectAll(".xlabel").remove()
 
 /////redo axes
 
@@ -930,11 +932,12 @@ d3.select(".xlabel").remove()
 				else{return "0.5px"}
 			})
 		.style("stroke", function(d){
-			if(d.elec == 100){
-				return "#fcc30b"
-			//}else if(d.ag >50000){
-				//return "#01FF70"
-			}else if(d.ag >100000){
+		//	if(d.elec == 100){
+		//		return "#fcc30b"
+		//	//}else if(d.ag >50000){
+		//		//return "#01FF70"
+		//	}else
+			 if(d.ag >100000){
 				return "#56c02b"
 			}else{
 				return "#222222"
