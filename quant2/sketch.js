@@ -133,8 +133,9 @@ vvvvvvvvvvvvvvv UI and TOOLTIPS vvvvvvvvvvvvvvvvv
 	var svg = d3.select("#fancy_chart").append("svg")
 		.attr("width", width+margin.right*2)
 		.attr("height", height)
-		.style("border", "0.5px dashed grey")
-		.style("background", "lightgrey");
+		//.style("border", "0.5px dashed grey")
+		.style("padding", "100px")
+		.style("background", "white");
 
 ////svg canvas and boreder ^^
 	//console.log(height)
@@ -234,7 +235,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 			div.transition()
-				.style("color", "white")
+				.style("color", "black")
 				.style("opacity", 0.9);
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
@@ -469,7 +470,11 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 				.attr("r", function(el){return Math.sqrt(poprscale(el.gdpcap)/Math.PI)})
 				//.attr("startAngle", 0)
 				//.attr("endAngle", Math.PI*2)
-				.style("fill", "black");
+				.style("fill", function(d){
+					if(d.Continent == "Africa"){
+						return "#e5243b"
+					}else{
+						return "#19486a"}});
 		})
 
 		d3.selectAll("circle").selectAll(".gdpcapita").on("mouseover", function(d){
@@ -478,7 +483,7 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 			div.transition()
-				.style("color", "white")
+				.style("color", "black")
 				.style("opacity", 0.9);
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
@@ -589,7 +594,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 			div.transition()
-				.style("color", "white")
+				.style("color", "black")
 				.style("opacity", 0.9);
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
@@ -824,7 +829,12 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 				.attr("r", function(el){return Math.sqrt(poprscale(el.gdpcap)/Math.PI)})
 				//.attr("startAngle", 0)
 				//.attr("endAngle", Math.PI*2)
-				.style("fill", "black");
+				//.style("fill", "black");
+				.style("fill", function(d){
+					if(d.Continent == "Africa"){
+						return "#e5243b"
+					}else{
+						return "#19486a"}});
 		})
 		d3.selectAll(".gdpcapita").on("mouseover", function(d){
 			d3.select(this).transition()
@@ -832,7 +842,7 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 			div.transition()
-				.style("color", "white")
+				.style("color", "black")
 				.style("opacity", 0.9);
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
@@ -953,7 +963,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 			div.transition()
-				.style("color", "white")
+				.style("color", "black")
 				.style("opacity", 0.9);
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
@@ -1176,7 +1186,12 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 				.style("display",function(d){if(d.food == 0 || d.gini == 0){return "none"}})
 				//.attr("startAngle", 0)
 				//.attr("endAngle", Math.PI*2)
-				.style("fill", "black");
+				//.style("fill", "black");
+				.style("fill", function(d){
+					if(d.Continent == "Africa"){
+						return "#e5243b"
+					}else{
+						return "#19486a"}});
 		})
 		update.selectAll(".gdpcapita").on("mouseover", function(d){
 			d3.select(this).transition()
@@ -1184,7 +1199,7 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(el){return Math.sqrt(rscale(el.gdpcap)/Math.PI)+5});
 			div.transition()
-				.style("color", "white")
+				.style("color", "black")
 				.style("opacity", 0.9);
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")

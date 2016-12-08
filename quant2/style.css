@@ -1,8 +1,12 @@
 body{
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Arial', serif;
 
 }
+h1{
+	text-align: center;
+}
 
+/*
 .label{
 	font-family: 'Droid Serif', serif;
 	font-weight: 'bold'
@@ -21,3 +25,4 @@ body{
 .rnav{
 	display:inline;
 }
+*/
