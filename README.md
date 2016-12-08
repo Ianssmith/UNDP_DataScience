@@ -1,8 +1,5 @@
-#Title
-###Lead text:>-In most parts of the world, crowding people together allows businesses that wouldn’t otherwise exist to thrive...Africa is the only region where urbanization is not correlated with poverty reduction.. What sets them apart from cities elsewhere is that urbanization has not been driven by increasing agricultural productivity… African cities are centers of consumption, where the rents extracted from natural resources are spent by the rich. This means that they have grown while failing to install the infrastructure that makes cities elsewhere work.-
-The Economist:Sept.16th.2016
-##So do African Cities have the Agricultural resources available? If so are investments being made to develop them? Is this even true?
->I am studying power grid infrstructure and agriculture because I want to find out who/why/how it is that there are regions without access to electricity and who/why/how Africa imports food. I do so in order to understand how/why/what governments are spending money on if not this. I am considering/comparing/using financial and economic variables such as government debt and expenditure. My visualization is based on WorldBank world development indicators data.
+#Title:Is the Rapid Growth of Urban African Cities a Sign of Prosperity or Imbalance?
+###Lead text:> The visualization analyzes the role that infrastructure and agriculture play in making an urban city livable and a place of opportunity. At the most basic level, a city must have food and power to sustain itself; The amount of food imported by a country and the amount of agricultural land is compared to each country’s inequality coefficient (Gini) and the country’s urban population living in a “slum”. 
 
 [![](quant2/screenshotUNDP_RBA.png)](https://ianssmith.github.io/major-studio-1/quant2)
 
@@ -52,6 +49,10 @@ The Economist:Sept.16th.2016
 		http://data.worldbank.org/data-catalog/global-financial-development
 
 	-http://data.imf.org/?sk=388DFA60-1D26-4ADE-B505-A05A558D9A42&ss=1459341854713
+
+The Economist:Sept.16th.2016
+##So do African Cities have the Agricultural resources available? If so are investments being made to develop them? Is this even true?
+>I am studying power grid infrstructure and agriculture because I want to find out who/why/how it is that there are regions without access to electricity and who/why/how Africa imports food. I do so in order to understand how/why/what governments are spending money on if not this. I am considering/comparing/using financial and economic variables such as government debt and expenditure. My visualization is based on WorldBank world development indicators data.
 
 
 ###Questions 
