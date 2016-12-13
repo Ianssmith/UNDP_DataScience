@@ -40,6 +40,7 @@ var color = d3.scaleOrdinal()
 
 var G = d3.select("#G")
 var S = d3.select("#S")
+//var E = d3.select("#E")
 var gdpc = d3.select("#gdpc")
 var landa = d3.select("#landa")
 
@@ -214,16 +215,17 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 				else{return "0.5px"}
 			})
 		.style("stroke", function(d){
-		//	if(d.elec == 100){
-		//		return "#fcc30b"
-		//	//}else if(d.ag >50000){
-		//		//return "#01FF70"
-		//	}else
-			 if(d.ag >100000){
-				return "#56c02b"
+			if(d.elec == 100){
+				return "#fcc30b"
 			}else{
 				return "#222222"
 			}})
+//			}else
+//			 if(d.ag >100000){
+//				return "#56c02b"
+//			}else{
+//				return "#222222"
+//			}})
 		.style("opacity",0.75)
 /*
 ^^^^^^^^^^^^^^^ INITIAL RENDER ^^^^^^^^^^^^^^^
@@ -573,16 +575,17 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 				else{return "0.5px"}
 			})
 		.style("stroke", function(d){
-		//	if(d.elec == 100){
-		//		return "#fcc30b"
-		//	//}else if(d.ag >50000){
-		//		//return "#01FF70"
-		//	}else 
-			if(d.ag >100000){
-				return "#56c02b"
+			if(d.elec == 100){
+				return "#fcc30b"
 			}else{
 				return "#222222"
 			}})
+		//	}else 
+//			if(d.ag >100000){
+//				return "#56c02b"
+//			}else{
+//				return "#222222"
+//			}})
 		.style("opacity",0.75)
 /*
 ^^^^^^^^^^^^^^^ INITIAL RENDER ^^^^^^^^^^^^^^^
@@ -942,16 +945,17 @@ d3.selectAll(".xlabel").remove()
 				else{return "0.5px"}
 			})
 		.style("stroke", function(d){
-		//	if(d.elec == 100){
-		//		return "#fcc30b"
-		//	//}else if(d.ag >50000){
-		//		//return "#01FF70"
-		//	}else
-			 if(d.ag >100000){
-				return "#56c02b"
+			if(d.elec == 100){
+				return "#fcc30b"
 			}else{
 				return "#222222"
 			}})
+		//	}else
+//			 if(d.ag >100000){
+//				return "#56c02b"
+//			}else{
+//				return "#222222"
+//			}})
 		.style("opacity",0.75)
 /*
 ^^^^^^^^^^^^^^^ INITIAL RENDER ^^^^^^^^^^^^^^^
