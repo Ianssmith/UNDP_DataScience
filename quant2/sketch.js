@@ -202,6 +202,8 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 		.attr("class", "landarea")
 		.attr("cx",function(d,i){return xscale(d.food)})
 		.attr("cy", function(d,i){return yscale(d.slum)})
+		.attr("data-legend",function(d) { return d.elec})
+		.attr("data-legend",function(d) { return d.Continent})
 		.style("fill", function(d){
 			if(d.Continent == "Africa"){
 				return "#e5243b"
@@ -327,8 +329,9 @@ vvvvvvvvvvvvvvv LAND AREA BUTTON FUNCTION vvvvvvvvvvvvvvvvvv
 		.style("stroke", function(d){
 			if(d.food == 0){
 				return "white"
-			}else if(d.ag >50000){
-				return "#56c02b"
+			//}else if(d.ag >50000){
+			}else if(d.elec ==100){
+				return "#FFDC00"
 			}else{
 				return "#222222"
 			}})
@@ -687,8 +690,9 @@ vvvvvvvvvvvvvvv LAND AREA BUTTON FUNCTION vvvvvvvvvvvvvvvvvv
 		.style("stroke", function(d){
 			if(d.food == 0){
 				return "white"
-			}else if(d.ag >50000){
-				return "#56c02b"
+			//}else if(d.ag >50000){
+				}else if(d.elec ==100){
+				return "#FFDC00"
 			}else{
 				return "#222222"
 			}})
@@ -1057,8 +1061,9 @@ vvvvvvvvvvvvvvv LAND AREA BUTTON FUNCTION vvvvvvvvvvvvvvvvvv
 		.style("stroke", function(d){
 			if(d.food == 0){
 				return "white"
-			}else if(d.ag >50000){
-				return "#56c02b"
+			//}else if(d.ag >50000){
+			}else if(d.elec == 100){
+				return "#FFDC00"
 			}else{
 				return "#222222"
 			}})
@@ -1219,4 +1224,20 @@ vvvvvvvvvvvvvvv GDPCAP vvvvvvvvvvvvvvvvvv
 		;
 		
 })
+	legend = update.append("g")
+		.attr("class","legend")
+    	.attr("transform","translate(50,30)")
+    	.style("font-size","12px")
+		.call(d3.legend)
+
+  setTimeout(function() { 
+    legend
+      .style("font-size","20px")
+      .attr("data-style-padding",10)
+      .call(d3.legend)
+  },1000)
+
+
+
+
 		}
