@@ -1,7 +1,7 @@
 #Title:Is the Rapid Growth of Urban African Cities a Sign of Prosperity or Imbalance?
 ###Lead text:> The visualization analyzes the role that infrastructure and agriculture play in making an urban city livable and a place of opportunity. At the most basic level, a city must have food and power to sustain itself; The amount of food imported by a country and the amount of agricultural land is compared to each country’s inequality coefficient (Gini) and the country’s urban population living in a “slum”. 
 
-[![](quant2/screenshotUNDP_RBA.png)](https://ianssmith.github.io/major-studio-1/quant2)
+[![](quant2/screenshot_update.png)](https://ianssmith.github.io/major-studio-1/quant2)
 
 # major-studio-1
 ## Quantitative Data
