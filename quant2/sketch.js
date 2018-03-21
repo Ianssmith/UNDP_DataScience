@@ -8,6 +8,7 @@ var S = d3.select("#S")
 //var E = d3.select("#E")
 var landa = d3.select("#landa")
 var eq = d3.select("#eq")
+var showingLand = false;
 
 
 d3.queue()
@@ -238,11 +239,15 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("opacity",1.0)
 				.style("stroke-width", "2px")
 				.attr("r", function(d,i){//function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
-					if(d.food == 0){
-						return 0
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI)+3;
 					}else{
-					return 6//Math.sqrt(rscale(d.ag)/Math.PI)
-					}		
+						if(d.food == 0){
+							return 0
+						}else{
+						return 6//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
 				})
 			div.transition()
 		.duration(1000)
@@ -257,12 +262,19 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			d3.select(this)
 			.transition()
 			.attr("r", function(d,i){
-					if(d.food == 0){
-						return 0
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI);
 					}else{
-					return 6//Math.sqrt(rscale(d.ag)/Math.PI)
-					}		
+						if(d.food == 0){
+							return 0
+						}else{
+						return 5//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
 				})
+		.style("stroke-width","0.5px")
+		.style("stroke", "white")
+		.style("opacity",0.75)
 
 			div.transition()
 				.duration(1000)
@@ -275,6 +287,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 
 
 		landa.on("click", function(){
+			showingLand = true;
 			//d3.select(this).transition()
 			update.selectAll("circle")
 			//.attr("class", "landarea")
@@ -305,6 +318,20 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 		update.selectAll("circle").on("mouseout", function(){
 			d3.select(this)
 			.transition()
+			.attr("r", function(d,i){
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI);
+					}else{
+						if(d.food == 0){
+							return 0
+						}else{
+						return 5//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
+				})
+		.style("stroke-width","0.5px")
+		.style("stroke", "white")
+		.style("opacity",0.75)
 
 		})
 
@@ -346,6 +373,10 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 		landa.on("mouseover",function(){landa.style("background", "#00689d");})
 		landa.on("mouseout",function(){landa.style("background", "#0a97d9");})
 
+		d3.selectAll('.ylabel')
+			.attr("x",-120)
+			.attr("y",30)
+			.text("% of Urban Population Living in Slums");
 
 	update.selectAll("circle")
 		.transition()
@@ -382,11 +413,15 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("opacity",1.0)
 				.style("stroke-width", "2px")
 				.attr("r", function(d,i){//function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
-					if(d.food == 0){
-						return 0
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI)+3;
 					}else{
-					return 6//Math.sqrt(rscale(d.ag)/Math.PI)
-					}		
+						if(d.food == 0){
+							return 0
+						}else{
+						return 6//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
 				})
 			div.transition()
 		.duration(1000)
@@ -401,12 +436,19 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			d3.select(this)
 			.transition()
 			.attr("r", function(d,i){
-					if(d.food == 0){
-						return 0
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI);
 					}else{
-					return 6//Math.sqrt(rscale(d.ag)/Math.PI)
-					}		
+						if(d.food == 0){
+							return 0
+						}else{
+						return 5//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
 				})
+		.style("stroke-width","0.5px")
+		.style("stroke", "white")
+		.style("opacity",0.75)
 
 			div.transition()
 				.duration(1000)
@@ -419,6 +461,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 
 
 		landa.on("click", function(){
+			showingLand = true;
 			//d3.select(this).transition()
 			update.selectAll("circle")
 			//.attr("class", "landarea")
@@ -470,6 +513,11 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 		landa.on("mouseover",function(){landa.style("background", "#00689d");})
 		landa.on("mouseout",function(){landa.style("background", "#0a97d9");})
 
+		d3.selectAll('.ylabel')
+			.attr("x",-160)
+			.attr("y",30)
+			.text('Gini Coefficient Score');
+
 
 	update.selectAll("circle")
 		.transition()
@@ -506,11 +554,15 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("opacity",1.0)
 				.style("stroke-width", "2px")
 				.attr("r", function(d,i){//function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
-					if(d.food == 0){
-						return 0
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI)+3;
 					}else{
-					return 6//Math.sqrt(rscale(d.ag)/Math.PI)
-					}		
+						if(d.food == 0){
+							return 0
+						}else{
+						return 6//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
 				})
 			div.transition()
 		.duration(1000)
@@ -525,12 +577,19 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			d3.select(this)
 			.transition()
 			.attr("r", function(d,i){
-					if(d.food == 0){
-						return 0
+					if(showingLand){
+						return Math.sqrt(rscale(el.ag)/Math.PI);
 					}else{
-					return 6//Math.sqrt(rscale(d.ag)/Math.PI)
-					}		
+						if(d.food == 0){
+							return 0
+						}else{
+						return 5//Math.sqrt(rscale(d.ag)/Math.PI)
+						}		
+					}
 				})
+		.style("stroke-width","0.5px")
+		.style("stroke", "white")
+		.style("opacity",0.75)
 
 			div.transition()
 				.duration(1000)
@@ -543,6 +602,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 
 
 		landa.on("click", function(){
+			showingLand = true;
 			//d3.select(this).transition()
 			update.selectAll("circle")
 			//.attr("class", "landarea")
@@ -581,6 +641,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 
 
 eq.on("click",function(){
+	showingLand = false;
 	update.selectAll("circle")
 		.transition()
 		.duration(1000)
