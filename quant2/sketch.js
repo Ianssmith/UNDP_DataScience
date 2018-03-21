@@ -240,7 +240,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(d,i){//function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI)+3;
+						return Math.sqrt(rscale(d.ag)/Math.PI)+3;
 					}else{
 						if(d.food == 0){
 							return 0
@@ -251,8 +251,8 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				})
 			div.transition()
 		.duration(1000)
-				.style("color", "black")
-				.style("opacity", 0.9);
+				.style("color", "white")
+				.style("opacity", 0.9)
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
 				.style("top", (d3.event.pageY - 28) + "px");
@@ -263,7 +263,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			.transition()
 			.attr("r", function(d,i){
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI);
+						return Math.sqrt(rscale(d.ag)/Math.PI);
 					}else{
 						if(d.food == 0){
 							return 0
@@ -320,7 +320,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			.transition()
 			.attr("r", function(d,i){
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI);
+						return Math.sqrt(rscale(d.ag)/Math.PI);
 					}else{
 						if(d.food == 0){
 							return 0
@@ -386,8 +386,12 @@ vvvvvvvvvvvvvvv INITIAL RENDER vvvvvvvvvvvvvvvvvv
 			if(d.food == 0){
 				return 0
 			}else{
-			return 5//Math.sqrt(rscale(d.ag)/Math.PI)
-			}		
+				if(showingLand){
+					return Math.sqrt(rscale(d.ag)/Math.PI);
+				}else{
+					return 5//Math.sqrt(rscale(d.ag)/Math.PI)
+					}		
+				}
 		})
 		.attr("cx",function(d,i){return xscale(d.food)})
 		.attr("cy", function(d,i){return yscale(d.slum)})
@@ -414,7 +418,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(d,i){//function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI)+3;
+						return Math.sqrt(rscale(d.ag)/Math.PI)+3;
 					}else{
 						if(d.food == 0){
 							return 0
@@ -425,8 +429,8 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				})
 			div.transition()
 		.duration(1000)
-				.style("color", "black")
-				.style("opacity", 0.9);
+				.style("color", "white")
+				.style("opacity", 0.9)
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
 				.style("top", (d3.event.pageY - 28) + "px");
@@ -437,7 +441,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			.transition()
 			.attr("r", function(d,i){
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI);
+						return Math.sqrt(rscale(d.ag)/Math.PI);
 					}else{
 						if(d.food == 0){
 							return 0
@@ -527,8 +531,12 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			if(d.food == 0){
 				return 0
 			}else{
-			return 5//Math.sqrt(rscale(d.ag)/Math.PI)
-			}		
+				if(showingLand){
+					return Math.sqrt(rscale(d.ag)/Math.PI);
+				}else{
+					return 5//Math.sqrt(rscale(d.ag)/Math.PI)
+					}		
+				}
 		})
 		.attr("cx",function(d,i){return xscale(d.food)})
 		.attr("cy", function(d,i){return giniscale(d.gini)})
@@ -555,7 +563,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				.style("stroke-width", "2px")
 				.attr("r", function(d,i){//function(el){return Math.sqrt(rscale(el.ag)/Math.PI)+5});
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI)+3;
+						return Math.sqrt(rscale(d.ag)/Math.PI)+3;
 					}else{
 						if(d.food == 0){
 							return 0
@@ -566,8 +574,8 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 				})
 			div.transition()
 		.duration(1000)
-				.style("color", "black")
-				.style("opacity", 0.9);
+				.style("color", "white")
+				.style("opacity", 0.9)
 			div.html(d.Country_Name)
 				.style("left", (d3.event.pageX) + "px")
 				.style("top", (d3.event.pageY - 28) + "px");
@@ -578,7 +586,7 @@ vvvvvvvvvvvvvvv POINT SWELL ANIME vvvvvvvvvvvvvvvvvv
 			.transition()
 			.attr("r", function(d,i){
 					if(showingLand){
-						return Math.sqrt(rscale(el.ag)/Math.PI);
+						return Math.sqrt(rscale(d.ag)/Math.PI);
 					}else{
 						if(d.food == 0){
 							return 0
