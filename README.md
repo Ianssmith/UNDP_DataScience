@@ -1,5 +1,5 @@
 ### Is the Rapid Growth of Urban African Cities a Sign of Prosperity or Imbalance?
-This research, in collaboration with the United Nations Development Programme aims to delve deeper and uncover fact based insights into the topic of economic inequality in Urban centers of Sub-Saharan Africa. 
+This research, in collaboration with the United Nations Development Programme, aims to delve deeper and uncover fact based insights into the topic of economic inequality in urban centers of Sub-Saharan Africa. 
 
 >Studying power grid infrastructure and agriculture in order to find out who/why/how it is that there are regions without access to electricity and who/why/how Africa imports food. Doing so in order to understand how/why/what governments are spending money on if not this. Considering/comparing/using financial and economic variables such as government debt and expenditure. My visualization is based on WorldBank world development indicators data.
 
@@ -19,14 +19,14 @@ ___
 2. Breadth research
 3. Depth research
 4. Formulate question
-5. Test Question
+5. Test question
 6. Results
 
 #### (Images link to live visualization app)
 
 ___
 
-### stage 1.
+### Stage 1.
 #### "Key Issues Report" whitepaper, identify topic, consult with UNDP project lead
 The entry point into our research was via the "Overview of Key Issues Report" provided to us by the UNDP. We read the paper consulted the referenced data and research sources, and formulated topical questions (See "Questions" section below) to pose to the director of the department to flesh out potential avenues of research.
 
@@ -34,7 +34,7 @@ Researching historical instances of economically and financially ruined or strug
 
 ---
 
-### stage 2.
+### Stage 2.
 #### Locating other sources of research and data
 We then branched out finding supplemental research (See "Reference" and "Supplemental Sources" sections below) in order to begin to formulate a test question and then to subsequently search for or create viable data-sources for testing the topic.
 
@@ -42,7 +42,7 @@ Qualitative text analysis was conducted of the "Key issues report" to gauge and 
 
 ---
 
-### stage 3. 
+### Stage 3. 
 #### Formulating research question/hypothesis
 The core sources however indicated that the inquiry into whether or how to introduce more sophisticated economic and financial possibilities into to market, whether through government or industry, were premature to say the least and that most countries in Africa lacked the basic infrastructure to even begin considering investing in such ventures. Moreover there seemed to be indication that while the economy had shown recent growth it was not driven by similar developments in infrastructure and agriculture, but rather just the opposite. 
 
@@ -70,7 +70,7 @@ Thus the direction and hypothesis became clear. Does the data reflect or confirm
 
 ---
 
-### stage 4.
+### Stage 4.
 #### Assessing value and validity of question/hypothesis
 Common wisdom is that economic growth naturally causes and is even facilitated by some degree by inequality but recent research has indicated that this may not be a universal.
 >"In the Philippines the ratio of the income share of the top 20% to the bottom 40% of the population was almost twice as large as in South Korea. Over the following 30 year period, fast growth in South Korea resulted in a five-fold increase of the output level, while that of the Philippines barely doubled."
@@ -103,7 +103,7 @@ Median for other Countries: 47,683 sq/km
 
 ---
 
-### stage 5.
+### Stage 5.
 #### Testing hypothesis
 Since the correlation between access to electricity and whether or not a country was in Africa was so strong, and because the benefit of increasing power grid infrastructure seems self-evident, but is yet more costly and requires more specialized knowledge to implement, focus was directed toward unpacking the seemingly more subtle effects Agricultural development may have on economic inequality and overall prosperity. 
 
@@ -115,7 +115,7 @@ The speculation is with the research showing that agricultural development and e
 
 ---
 
-### stage 6.
+### Stage 6.
 #### Presenting findings and suggesting action items
 In order to convey and emphasize the specific patterns in the relationship, a web based interactive visualization of the data was created so all concerned parties could view and interact with the data at their leisure. It is not an overly complex application, as the choice was made to reduce the number of variables at play to improve clarity and accessibility while highlighting the other supporting elements of the research through presentation.
 The culminating recommendation at this point was simple; To allocate more funds and efforts to educating, innovating, and building out infrastructure and systems for a robust agricultural economy and market. At the most basic level a city must have food and power to sustain itself, particularly as the population grows, short-cutting the necessary investment of creating the structures for this support by way of importing food is simply not a feasible long term solution.
@@ -132,6 +132,10 @@ ___
 	-http://data.worldbank.org/data-catalog/world-development-indicators 
 
 #### Reference:
+
+	-Haroon Bhorat, Karmen Naidoo Kavisha Pillay. 2016.
+		"Growth, Poverty and Inequality Interactions In Africa:An Overview of Key Issues"
+		United Nations Development Programme, Regional Bureau for Africa
 
 	-Luc Christiaensen, Punam Chuhan-Pole, and Aly Sanoh1, (DRAFT)2013/2016.
 		"Africa’s Growth, Poverty and Inequality Nexus - Fostering Shared Prosperity"
