@@ -3,6 +3,8 @@ This research, in collaboration with the United Nations Development Programme ai
 
 >Studying power grid infrastructure and agriculture in order to find out who/why/how it is that there are regions without access to electricity and who/why/how Africa imports food. Doing so in order to understand how/why/what governments are spending money on if not this. Considering/comparing/using financial and economic variables such as government debt and expenditure. My visualization is based on WorldBank world development indicators data.
 
+___
+
 #### Contents:
 ##### Code section
 1. qualData: Contains application code for NLP exploratory research and application.
@@ -20,17 +22,23 @@ This research, in collaboration with the United Nations Development Programme ai
 5. Test Question
 6. Results
 
+___
+
 ### stage 1.
 #### "Key Issues Report" whitepaper, identify topic, consult with UNDP project lead
 The entry point into our research was via the "Overview of Key Issues Report" provided to us by the UNDP. We read the paper consulted the referenced data and research sources, and formulated topical questions (See "Questions" section below) to pose to the director of the department to flesh out potential avenues of research.
 
 Researching historical instances of economically and financially ruined or struggling countries which were able to recover or develop successfully there were indications that the recovery of the US from the Great Depression was partly enabled by financial and economic maneuvering through debt and free market incentive ["what ended the great depression":fee.org]. Led by this and feedback from the UNDP on my initial questions, direction was taken to research deeper into what the economic and financial landscape of Africa that gave rise to the recent growth to see if there were parallel circumstances and if so what was different and potentially contributing to the economic inequality. 
 
+---
+
 ### stage 2.
 #### Locating other sources of research and data
 We then branched out finding supplemental research (See "Reference" and "Supplemental Sources" sections below) in order to begin to formulate a test question and then to subsequently search for or create viable data-sources for testing the topic.
 
 Qualitative text analysis was conducted of the "Key issues report" to gauge and identify further key topics through topic and word frequency
+
+---
 
 ### stage 3. 
 #### Formulating research question/hypothesis
@@ -58,6 +66,8 @@ decades"
 
 Thus the direction and hypothesis became clear. Does the data reflect or confirm that Agricultural and Infrastructural development preclude economic prosperity and are those invested in the healthy and equitable development of countries in Sub-Saharan Africa taking the appropriate steps to facilitate this?
 
+---
+
 ### stage 4.
 #### Assessing value and validity of question/hypothesis
 Common wisdom is that economic growth naturally causes and is even facilitated by some degree by inequality but recent research has indicated that this may not be a universal.
@@ -71,9 +81,13 @@ In order to identify if these topics were on the radar in a meaningful way alrea
 
 After identifying and aggregating viable data sources for quantitative analysis, preliminary exploratory analysis was done resulting in patterns which seemed to corroborate the idea that populous urban centers might be suffering as a result of a lack of proper infrastructure to support them.
 
+---
+
 [![](quant2/electricitychart.png)](https://ianssmith.github.io/UNDP_DataScience/qualData/quantData/index.html)
 ##### There is a significant difference between African Countries access to electricity to the rest of the world.
 (African Countries shown in white)
+
+---
 
 [![](quant2/landchart.png)](https://ianssmith.github.io/UNDP_DataScience/qualData/quantData/indexAG.html)
 ##### African Countries noticeably higher amount of agricultural land than other nations when accounting for outliers using the median as a measure of central tendency.
@@ -85,6 +99,8 @@ Mean for other Countries: 324,874 sq/km
 Median for African Countries: 144650 sq/km<br>
 Median for other Countries: 47683 sq/km
 
+---
+
 ### stage 5.
 #### Testing hypothesis
 Since the correlation between access to electricity and whether or not a country was in Africa was so strong, and because the benefit of increasing power grid infrastructure seems self-evident, but is yet more costly and requires more specialized knowledge to implement, focus was directed toward unpacking the seemingly more subtle effects Agricultural development may have on economic inequality and overall prosperity. 
@@ -95,12 +111,16 @@ The results were quite striking, showing a clear positive correlation in the amo
 
 The speculation is with the research showing that agricultural development and employment has decreased in favor of urban services as opposed to more traditional growth industries like manufacturing, and often lacking proper logistical infrastructure for local farm products to be transported, simply importing food may have appeared to be an easier more favorable option, but one which is ultimately undercutting the recent economic growth.
 
+---
+
 ### stage 6.
 #### Presenting findings and suggesting action items
 In order to convey and emphasize the specific patterns in the relationship, a web based interactive visualization of the data was created so all concerned parties could view and interact with the data at their leisure. It is not an overly complex application, as the choice was made to reduce the number of variables at play to improve clarity and accessibility while highlighting the other supporting elements of the research through presentation.
 The culminating recommendation at this point was simple; To allocate more funds and efforts to educating, innovating, and building out infrastructure and systems for a robust agricultural economy and market. At the most basic level a city must have food and power to sustain itself, particularly as the population grows, short-cutting the necessary investment of creating the structures for this support by way of importing food is simply not a feasible long term solution.
 
 [![](quant2/screenshot_update.png)](https://ianssmith.github.io/UNDP_DataScience/quant2)
+
+___
 
 #### Data Sources
 	-https://www.wider.unu.edu/download/WIID3.3
@@ -141,14 +161,13 @@ The culminating recommendation at this point was simple; To allocate more funds 
 
 	http://data.imf.org/?sk=388DFA60-1D26-4ADE-B505-A05A558D9A42&ss=1459341854713
 
+---
+
 ### Questions 
 
-	- Is there any clear indications as to whether the "lack of strong statistical systems in most African countries" mentioned in the "Overview of Key Issues report" is more heavily rooted in infrastructural or institutional weaknesses?
+- Is there any clear indications as to whether the "lack of strong statistical systems in most African countries" mentioned in the "Overview of Key Issues report" is more heavily rooted in infrastructural or institutional weaknesses?
 
-	- Banking penetration in Africa is quite low when compared on a global scale, and the 2 main reasons cited for this are low income in general, and distance to financial institutions. What about financial markets. Is there an equivalent of "Wall Street" in Africa?
+- Banking penetration in Africa is quite low when compared on a global scale, and the 2 main reasons cited for this are low income in general, and distance to financial institutions. What about financial markets. Is there an equivalent of "Wall Street" in Africa?
 
-	- Some mention an interesting theory that since Africa is so infrastructurally barren in many regards, it might be able to sort of "skip over" intermediary infrastructural stages and the accompanying lag associated with the adoption of new technologies. For example mobile/online banking, UAV's, etc. Do you see any merit or potential in this line of thinking? If so, what would you say would be the biggest obstacles for something like this? If not, why not?
+- Some mention an interesting theory that since Africa is so infrastructurally barren in many regards, it might be able to sort of "skip over" intermediary infrastructural stages and the accompanying lag associated with the adoption of new technologies. For example mobile/online banking, UAV's, etc. Do you see any merit or potential in this line of thinking? If so, what would you say would be the biggest obstacles for something like this? If not, why not?
 
-
-
-----
