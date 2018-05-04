@@ -22,6 +22,8 @@ ___
 5. Test Question
 6. Results
 
+#### (Images link to live visualization app)
+
 ___
 
 ### stage 1.
@@ -84,20 +86,20 @@ After identifying and aggregating viable data sources for quantitative analysis,
 ---
 
 [![](quant2/electricitychart.png)](https://ianssmith.github.io/UNDP_DataScience/qualData/quantData/index.html)
-##### There is a significant difference between African Countries access to electricity to the rest of the world.
-(African Countries shown in white)
+##### There is a significant difference between African countries access to electricity to the rest of the world.
+(African Countries shown in color)
 
 ---
 
 [![](quant2/landchart.png)](https://ianssmith.github.io/UNDP_DataScience/qualData/quantData/indexAG.html)
-##### African Countries noticeably higher amount of agricultural land than other nations when accounting for outliers using the median as a measure of central tendency.
-(African Countries shown in color)
+##### African countries have a noticeably higher amount of agricultural land than other nations when accounting for outliers using the median as a measure of central tendency.
+(African Countries shown in white)
 
 Mean for African Countries: 222,281 sq/km<br>
 Mean for other Countries: 324,874 sq/km
 
-Median for African Countries: 144650 sq/km<br>
-Median for other Countries: 47683 sq/km
+Median for African Countries: 144,650 sq/km<br>
+Median for other Countries: 47,683 sq/km
 
 ---
 
